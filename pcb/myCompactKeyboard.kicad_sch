@@ -2228,6 +2228,126 @@
 				)
 			)
 		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers hide)
@@ -2322,6 +2442,2194 @@
 						)
 					)
 				)
+			)
+		)
+	)
+	(junction
+		(at 495.3 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "043d7656-6c0b-472a-8d1d-7f962b95cb67")
+	)
+	(junction
+		(at 342.9 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04f08499-7e76-40cb-8a08-a92c43343a93")
+	)
+	(junction
+		(at 495.3 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0832894a-a44b-4b21-aaec-ec05402b5426")
+	)
+	(junction
+		(at 368.3 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09c71983-1f66-47ac-a25e-9a02824cd2d2")
+	)
+	(junction
+		(at 317.5 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ac6b23b-b918-41a8-8339-759cf3024469")
+	)
+	(junction
+		(at 520.7 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0bc8fa69-7d7d-4643-9cd2-33ae4e60f5e9")
+	)
+	(junction
+		(at 520.7 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0caa2c25-1147-4903-9ecd-2dcab30a043f")
+	)
+	(junction
+		(at 495.3 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0de6a8ed-133e-4e08-8520-835f0da71813")
+	)
+	(junction
+		(at 469.9 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e72c3e3-98f9-4ca9-bcad-cb1cf69de001")
+	)
+	(junction
+		(at 266.7 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11442c82-ada4-4a57-876b-1c768dae7c42")
+	)
+	(junction
+		(at 368.3 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13fd0f38-05e2-45a2-a4b6-ae4e4b73fab6")
+	)
+	(junction
+		(at 266.7 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17a6fc8b-3a94-4745-b848-bc657cc08baf")
+	)
+	(junction
+		(at 469.9 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18239676-3b42-4ee3-b129-f55acd96811d")
+	)
+	(junction
+		(at 393.7 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19beeb2a-2f74-41dc-8d9a-e356be50136a")
+	)
+	(junction
+		(at 520.7 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19d5198d-93bd-4308-a3df-cd615aa067c8")
+	)
+	(junction
+		(at 393.7 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a02a352-b526-4ff1-92ec-8d536b873ac1")
+	)
+	(junction
+		(at 342.9 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c407565-393f-46c5-a905-c416cf3aee26")
+	)
+	(junction
+		(at 292.1 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c90c08f-8b7d-440e-82c7-8a799929605a")
+	)
+	(junction
+		(at 241.3 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1db5c4af-fddb-4ffb-acb7-f0a79e6fa494")
+	)
+	(junction
+		(at 368.3 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e86e668-4c26-4434-ad53-3c1e32792c87")
+	)
+	(junction
+		(at 444.5 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "21c0915d-f49b-4252-a9f2-84ba32203f90")
+	)
+	(junction
+		(at 520.7 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d10450e-28ee-4b9f-ad54-eadbcaf9a32a")
+	)
+	(junction
+		(at 393.7 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d68f48c-c302-4ec9-af8d-31e164f07177")
+	)
+	(junction
+		(at 292.1 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30b389ad-9162-43d5-92f2-b845293a58d4")
+	)
+	(junction
+		(at 368.3 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31bae871-faf6-47e8-ada2-0770304fb257")
+	)
+	(junction
+		(at 266.7 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34ca1e17-1f05-4183-9ce3-78cf5cde67c6")
+	)
+	(junction
+		(at 393.7 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "384978e3-c9af-4320-85f2-e5457f2632b3")
+	)
+	(junction
+		(at 419.1 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38970f47-83b6-495f-ae80-786a576e7dd2")
+	)
+	(junction
+		(at 241.3 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a16846f-a2be-4e52-8cbd-b20baa1b76a0")
+	)
+	(junction
+		(at 292.1 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a3b626d-5b73-4547-a8db-c83a02f1cd1f")
+	)
+	(junction
+		(at 292.1 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ab03a37-4848-4d4e-9483-80c4b7372e87")
+	)
+	(junction
+		(at 495.3 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3aef01d8-acb6-4db0-b6e4-66ab57486572")
+	)
+	(junction
+		(at 342.9 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bc1f627-5fc7-4766-b595-833c8700ccfc")
+	)
+	(junction
+		(at 228.6 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f5756eb-520f-4276-a700-72e8eacda724")
+	)
+	(junction
+		(at 266.7 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4177c47a-bdd1-4935-8437-7b21694f1e1e")
+	)
+	(junction
+		(at 444.5 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48175e4d-1713-417a-a0bd-59b5ba2a0a87")
+	)
+	(junction
+		(at 495.3 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53c046d3-3925-4d34-acaf-e7a52abcf077")
+	)
+	(junction
+		(at 368.3 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5da6be49-a0df-440a-aaf9-b171e4b677e7")
+	)
+	(junction
+		(at 393.7 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f5dcc7d-4582-4102-9aac-2357e188381c")
+	)
+	(junction
+		(at 317.5 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60772f97-4713-4159-9fb9-13ccfefd6d1f")
+	)
+	(junction
+		(at 469.9 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e297835-595a-43b5-9ccb-a189cce09bd9")
+	)
+	(junction
+		(at 368.3 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71e1eca8-9139-434c-b338-62a194aabafe")
+	)
+	(junction
+		(at 317.5 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7db70598-0d49-4264-b0b1-83e9ee3f692d")
+	)
+	(junction
+		(at 495.3 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80ce2a70-36b1-49f0-9043-015d3169da77")
+	)
+	(junction
+		(at 342.9 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81197e2c-9dc1-468c-b7f4-9eef67d471f1")
+	)
+	(junction
+		(at 368.3 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81768f61-734d-42a6-882f-d5e91e5cd966")
+	)
+	(junction
+		(at 495.3 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81e615c5-0924-4c1e-9792-6f406724284c")
+	)
+	(junction
+		(at 533.4 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8418ad49-8b9b-4369-929c-e11bffed7bda")
+	)
+	(junction
+		(at 342.9 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "903c6ec4-29fb-46df-b5f7-4ee4320f6c46")
+	)
+	(junction
+		(at 469.9 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95a01ada-d913-4454-85be-d6e6c8c895a4")
+	)
+	(junction
+		(at 317.5 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9756f53e-6215-488b-8d51-e6320e28b137")
+	)
+	(junction
+		(at 241.3 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98784380-4b78-451d-980a-48c1eb900c27")
+	)
+	(junction
+		(at 469.9 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98fa6532-9e3d-403a-9902-faa786c190bd")
+	)
+	(junction
+		(at 317.5 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "99245ae2-7a02-4e56-b295-281128cdbb94")
+	)
+	(junction
+		(at 444.5 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9929b4bc-157a-409e-bd67-2639404fb707")
+	)
+	(junction
+		(at 292.1 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b603040-12d4-4549-8b80-16fd0c9119e5")
+	)
+	(junction
+		(at 444.5 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c657f2e-f10c-4e53-bfc5-3777312bd727")
+	)
+	(junction
+		(at 266.7 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d3915fb-b1dc-4614-acbc-ca0dcb3dfde5")
+	)
+	(junction
+		(at 317.5 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ea301dc-d0d9-4c92-81ff-3b38c2414a3d")
+	)
+	(junction
+		(at 419.1 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9eaa2304-5138-4b41-b186-aab12d9e7798")
+	)
+	(junction
+		(at 317.5 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ef3103c-163e-47d7-a960-820dce8015aa")
+	)
+	(junction
+		(at 444.5 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a20495e2-7383-46b0-a4b4-630d4836b6fe")
+	)
+	(junction
+		(at 317.5 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5b27df2-c026-428c-8f02-abcda58fa312")
+	)
+	(junction
+		(at 292.1 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a777059c-941f-4e46-8c2e-851f04f3b64a")
+	)
+	(junction
+		(at 241.3 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8126c52-e8d3-4d74-bc65-be4f503ca12b")
+	)
+	(junction
+		(at 368.3 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aefcfc2a-ec80-43de-9a53-1177c83ebf7a")
+	)
+	(junction
+		(at 266.7 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2659c25-4aef-4531-865f-7da6c684a4d5")
+	)
+	(junction
+		(at 444.5 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b74834ab-f80d-42e2-8db8-db0b705fef87")
+	)
+	(junction
+		(at 444.5 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bef00c7e-2413-43db-8697-cf690b9762c6")
+	)
+	(junction
+		(at 419.1 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bfd23c36-4034-449f-8d99-7bd3862ddfbc")
+	)
+	(junction
+		(at 228.6 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2dc567d-4b39-450d-b165-750fa7578828")
+	)
+	(junction
+		(at 342.9 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6a67218-f450-4367-be4b-3b3210a16462")
+	)
+	(junction
+		(at 266.7 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc212e19-f2be-49fa-a5f3-71228a589300")
+	)
+	(junction
+		(at 469.9 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc6ad01e-ce10-4b33-8609-aa4a726b97eb")
+	)
+	(junction
+		(at 292.1 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d03ac025-99a3-4129-95d3-a62f99534f64")
+	)
+	(junction
+		(at 533.4 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d084db6c-0d65-4bef-b58e-5cc20ad28ffd")
+	)
+	(junction
+		(at 266.7 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9cb1fa7-6b33-45d5-9e52-1cb3e8940ac2")
+	)
+	(junction
+		(at 393.7 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db197562-10f5-4db1-9994-960c0dc6db8f")
+	)
+	(junction
+		(at 419.1 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db5778bf-a95a-459e-a85a-e075a16e858a")
+	)
+	(junction
+		(at 533.4 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc3d983d-3ac0-48e1-86bb-72cc1e62c04d")
+	)
+	(junction
+		(at 393.7 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dca5af16-ac57-4a83-a505-44c6d6355d13")
+	)
+	(junction
+		(at 419.1 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de4eac2e-7fa8-4f17-b66f-4bf9aa792b7b")
+	)
+	(junction
+		(at 520.7 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e95e2856-d0a2-452d-820f-c7ae8c6350d0")
+	)
+	(junction
+		(at 342.9 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e969c1ad-3778-4093-bb37-2358805e75ce")
+	)
+	(junction
+		(at 419.1 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea148113-f7b3-4ad7-ae15-fd1bf6088b7b")
+	)
+	(junction
+		(at 419.1 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed9f7397-2e8a-489b-8a93-68caa0c2f7e3")
+	)
+	(junction
+		(at 444.5 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f313d47f-b439-428d-8ebb-435f32c1428c")
+	)
+	(junction
+		(at 228.6 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3c49099-749d-4664-8e7d-9ca56fac6806")
+	)
+	(junction
+		(at 292.1 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6ccb70b-75a1-4395-91c4-986cc9998bb1")
+	)
+	(junction
+		(at 469.9 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7b36c57-f809-48b5-b568-bf020a0dbde9")
+	)
+	(junction
+		(at 342.9 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9166a1c-7be4-4004-8e61-11ac2554d6b4")
+	)
+	(junction
+		(at 241.3 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f95640ba-6904-4991-8d93-1a9bc30369d9")
+	)
+	(junction
+		(at 469.9 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9fb5d63-d8ab-4e45-8dde-df40a38d9650")
+	)
+	(junction
+		(at 495.3 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa650726-725f-452a-8cf6-aea820d3a1dc")
+	)
+	(junction
+		(at 419.1 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc6146c9-fc1a-4f28-ba6c-610ed83016e7")
+	)
+	(junction
+		(at 393.7 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fcd2b629-9108-4b41-a053-a0e8f9af7205")
+	)
+	(wire
+		(pts
+			(xy 419.1 109.22) (xy 444.5 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0015ceb6-e0b6-489c-962d-e1994e35e194")
+	)
+	(wire
+		(pts
+			(xy 469.9 83.82) (xy 495.3 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0074f8f2-9af6-426b-b7ae-7f0710fd17a4")
+	)
+	(wire
+		(pts
+			(xy 241.3 93.98) (xy 266.7 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00853058-d1e8-4c4b-b1a9-d18f029d27ab")
+	)
+	(wire
+		(pts
+			(xy 274.32 101.6) (xy 284.48 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "041354ff-8e47-44a0-8a75-1cf707bd918d")
+	)
+	(wire
+		(pts
+			(xy 228.6 83.82) (xy 228.6 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "041bc2fa-c40e-4310-b70b-108d51308ed8")
+	)
+	(wire
+		(pts
+			(xy 368.3 134.62) (xy 393.7 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06306d52-1f3c-4977-a522-bbb5d6dcee91")
+	)
+	(wire
+		(pts
+			(xy 533.4 144.78) (xy 533.4 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a6cc4e8-93bd-4a30-975b-ccd2701ca718")
+	)
+	(wire
+		(pts
+			(xy 444.5 119.38) (xy 469.9 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a849579-29e8-489f-b32d-bb7ec71729b0")
+	)
+	(wire
+		(pts
+			(xy 528.32 114.3) (xy 233.68 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c24e9c1-efc1-46f4-8f25-09e493655bbf")
+	)
+	(wire
+		(pts
+			(xy 426.72 152.4) (xy 436.88 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fddb562-6473-470d-9e26-6dcce88fdd83")
+	)
+	(wire
+		(pts
+			(xy 520.7 144.78) (xy 533.4 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11489f52-b648-478b-a757-403eeb713019")
+	)
+	(wire
+		(pts
+			(xy 533.4 160.02) (xy 520.7 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1213b8ec-b22f-42ab-a117-c4d42e8b67b9")
+	)
+	(wire
+		(pts
+			(xy 419.1 93.98) (xy 444.5 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "131940be-ef9b-492b-9435-f241c499fc29")
+	)
+	(wire
+		(pts
+			(xy 375.92 127) (xy 386.08 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "157a64c2-5431-4661-895b-b68132bf65bf")
+	)
+	(wire
+		(pts
+			(xy 419.1 68.58) (xy 444.5 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a4365d3-d980-475d-8c5d-35f9d7ef812a")
+	)
+	(wire
+		(pts
+			(xy 292.1 83.82) (xy 317.5 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a84d58c-9257-42c3-a221-f1558bbb15e8")
+	)
+	(wire
+		(pts
+			(xy 495.3 134.62) (xy 520.7 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c334a87-8712-46d9-8e2b-ef6feff85407")
+	)
+	(wire
+		(pts
+			(xy 469.9 93.98) (xy 495.3 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f60833f-1681-43ed-88b7-5699f33678b5")
+	)
+	(wire
+		(pts
+			(xy 299.72 101.6) (xy 309.88 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2114107d-de06-4562-9481-ce0f25ae681c")
+	)
+	(wire
+		(pts
+			(xy 469.9 134.62) (xy 495.3 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2124e418-ce27-435d-8d16-3c63c98bb5a7")
+	)
+	(wire
+		(pts
+			(xy 325.12 127) (xy 335.28 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "212f6d7e-fd1a-483f-8fd3-191c7b354d36")
+	)
+	(wire
+		(pts
+			(xy 444.5 83.82) (xy 469.9 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "231a1cda-aa06-4ffe-b7e6-912a08444283")
+	)
+	(wire
+		(pts
+			(xy 393.7 109.22) (xy 419.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23503200-c1c1-4d08-a22a-0cba9f107402")
+	)
+	(wire
+		(pts
+			(xy 533.4 93.98) (xy 533.4 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "242acdd2-b73d-4277-aaa0-2a5cdc76686f")
+	)
+	(wire
+		(pts
+			(xy 342.9 93.98) (xy 368.3 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2493fcf1-e6bb-45c7-9531-3ccc04f9f405")
+	)
+	(wire
+		(pts
+			(xy 342.9 160.02) (xy 368.3 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24bfd9ac-65df-4b4c-b47f-1a803b968b26")
+	)
+	(wire
+		(pts
+			(xy 228.6 68.58) (xy 241.3 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28b5ffcd-5b33-4ec1-876c-007450aa32e7")
+	)
+	(wire
+		(pts
+			(xy 533.4 68.58) (xy 533.4 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a3d23ea-fe6d-42ed-9e42-d9d9ddf19a79")
+	)
+	(wire
+		(pts
+			(xy 317.5 83.82) (xy 342.9 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ab9d3b3-3671-4eca-84e3-7732adb21877")
+	)
+	(wire
+		(pts
+			(xy 495.3 144.78) (xy 520.7 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c6bd735-d582-492f-be38-68b55430b750")
+	)
+	(wire
+		(pts
+			(xy 342.9 134.62) (xy 368.3 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2db45088-7ae7-4b03-9e1e-b1fde1d46193")
+	)
+	(wire
+		(pts
+			(xy 228.6 109.22) (xy 228.6 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "320a8fa7-8d28-4d2a-a127-3d8fd3998bd1")
+	)
+	(wire
+		(pts
+			(xy 342.9 119.38) (xy 368.3 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "326bc670-c4e6-4300-b810-7ad36e9836df")
+	)
+	(wire
+		(pts
+			(xy 426.72 127) (xy 436.88 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32d071b2-8abe-4e12-b7f1-78ce95afd5d6")
+	)
+	(wire
+		(pts
+			(xy 274.32 152.4) (xy 284.48 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34313b69-ba96-438b-a10a-a49553339e96")
+	)
+	(wire
+		(pts
+			(xy 248.92 127) (xy 259.08 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a5d7900-7baf-4814-9524-587115823a57")
+	)
+	(wire
+		(pts
+			(xy 502.92 127) (xy 513.08 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d58eeae-915c-4820-8b64-f36347d37ee6")
+	)
+	(wire
+		(pts
+			(xy 393.7 68.58) (xy 419.1 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f7a77eb-725e-445f-8d82-127338fc3cf0")
+	)
+	(wire
+		(pts
+			(xy 350.52 152.4) (xy 360.68 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4060cb6b-ccc8-4265-923d-182b77296632")
+	)
+	(wire
+		(pts
+			(xy 368.3 160.02) (xy 393.7 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "415b851f-9766-401a-a861-b8a89914b71f")
+	)
+	(wire
+		(pts
+			(xy 350.52 127) (xy 360.68 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42dd3f53-a770-401a-8a68-a27e98de5e5e")
+	)
+	(wire
+		(pts
+			(xy 368.3 119.38) (xy 393.7 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4318b5a5-7024-458e-b6cc-32d78a5a7e13")
+	)
+	(wire
+		(pts
+			(xy 299.72 152.4) (xy 309.88 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43dc828c-89a6-4101-8ef8-e83da21ab138")
+	)
+	(wire
+		(pts
+			(xy 241.3 119.38) (xy 266.7 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46391e46-f5af-41e3-b90f-3c89e1674911")
+	)
+	(wire
+		(pts
+			(xy 350.52 101.6) (xy 360.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4707259b-229a-487d-8dc6-a491d6841afe")
+	)
+	(wire
+		(pts
+			(xy 342.9 68.58) (xy 368.3 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b8117ca-ae1d-4ae2-b186-be03486dcba9")
+	)
+	(wire
+		(pts
+			(xy 292.1 119.38) (xy 317.5 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bfb1fac-7cc9-4381-89a6-9b1e0578a2b6")
+	)
+	(wire
+		(pts
+			(xy 502.92 101.6) (xy 513.08 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f7e3934-bd9b-4a49-b0fa-c2de0c03536f")
+	)
+	(wire
+		(pts
+			(xy 444.5 144.78) (xy 469.9 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fc17225-12cc-4d83-b4cb-c43d04834608")
+	)
+	(wire
+		(pts
+			(xy 292.1 160.02) (xy 317.5 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "525d9969-cd31-4946-8d66-3e0f0988e373")
+	)
+	(wire
+		(pts
+			(xy 528.32 76.2) (xy 528.32 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52ab3b09-5b5e-4c05-9484-828122562fe8")
+	)
+	(wire
+		(pts
+			(xy 444.5 134.62) (xy 469.9 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "532a5852-0fb3-49d0-912b-5a251dec44bf")
+	)
+	(wire
+		(pts
+			(xy 228.6 76.2) (xy 233.68 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53cc73fa-d36f-4d8c-aa49-0f6784873cb7")
+	)
+	(wire
+		(pts
+			(xy 528.32 101.6) (xy 528.32 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "567a3d86-aa85-4f3e-9042-2defb8754637")
+	)
+	(wire
+		(pts
+			(xy 266.7 144.78) (xy 292.1 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5765d979-46af-492a-9aec-2bdba450e65e")
+	)
+	(wire
+		(pts
+			(xy 368.3 83.82) (xy 393.7 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "585bd066-14b3-4379-bca9-2228b8c680f6")
+	)
+	(wire
+		(pts
+			(xy 266.7 160.02) (xy 292.1 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58bfaf12-5017-4b51-bc34-5b5e4b6e9b17")
+	)
+	(wire
+		(pts
+			(xy 228.6 109.22) (xy 241.3 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59d44a69-2450-4972-83a0-82b44d670a21")
+	)
+	(wire
+		(pts
+			(xy 248.92 101.6) (xy 259.08 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a8e0676-f566-4baa-9779-e63ea7adec69")
+	)
+	(wire
+		(pts
+			(xy 233.68 152.4) (xy 233.68 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f66cb65-1b80-4860-819f-e6377985e2cf")
+	)
+	(wire
+		(pts
+			(xy 317.5 144.78) (xy 342.9 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60c4102e-4f4a-4e99-a178-12144dfcd1fa")
+	)
+	(wire
+		(pts
+			(xy 528.32 139.7) (xy 528.32 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6349cfd3-3c73-4c42-986f-b6309d0b6f61")
+	)
+	(wire
+		(pts
+			(xy 274.32 127) (xy 284.48 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649c2a64-35d8-4b4a-946b-e2becbb0c95c")
+	)
+	(wire
+		(pts
+			(xy 469.9 109.22) (xy 495.3 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65055c6f-c85a-438b-831e-b5b1169cb514")
+	)
+	(wire
+		(pts
+			(xy 401.32 152.4) (xy 411.48 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6994a737-229a-4f0e-bbaa-e190fe4d570e")
+	)
+	(wire
+		(pts
+			(xy 299.72 127) (xy 309.88 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69e031a1-a9b9-45d8-b953-ae983793ebf2")
+	)
+	(wire
+		(pts
+			(xy 241.3 160.02) (xy 266.7 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b5052cd-b50f-416e-9a2a-bca08424bb9b")
+	)
+	(wire
+		(pts
+			(xy 469.9 68.58) (xy 495.3 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b87b4fb-d5ad-45c1-8e73-7fcff9c87c6b")
+	)
+	(wire
+		(pts
+			(xy 419.1 160.02) (xy 444.5 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fb50fbe-2b1e-4808-805b-a7ea172432e0")
+	)
+	(wire
+		(pts
+			(xy 241.3 134.62) (xy 266.7 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fc16c52-151d-487f-9487-e4e598ad65ed")
+	)
+	(wire
+		(pts
+			(xy 350.52 76.2) (xy 360.68 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "756f7a64-c1ef-4ded-9a7c-04ac7f38f2e0")
+	)
+	(wire
+		(pts
+			(xy 241.3 83.82) (xy 266.7 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7637c042-9875-4974-bf3b-d69566e2691b")
+	)
+	(wire
+		(pts
+			(xy 393.7 83.82) (xy 419.1 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7730c7a2-6c36-44a7-9f33-70d1f54cedd0")
+	)
+	(wire
+		(pts
+			(xy 292.1 93.98) (xy 317.5 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7736d513-bf9e-451d-8c2b-5cd57f13ef52")
+	)
+	(wire
+		(pts
+			(xy 469.9 144.78) (xy 495.3 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79cbca06-79d1-46a5-97d7-796ad2930274")
+	)
+	(wire
+		(pts
+			(xy 520.7 93.98) (xy 533.4 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "801249e7-cd6c-41eb-9d3e-99866a3172c9")
+	)
+	(wire
+		(pts
+			(xy 233.68 88.9) (xy 233.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81886269-ae0d-46fd-933c-6d712ae36472")
+	)
+	(wire
+		(pts
+			(xy 228.6 160.02) (xy 241.3 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82fc1be7-06a2-4e48-9fdd-ce2f50d11ef2")
+	)
+	(wire
+		(pts
+			(xy 248.92 152.4) (xy 259.08 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83b74902-81de-40ef-ac9a-7d330551dc65")
+	)
+	(wire
+		(pts
+			(xy 495.3 160.02) (xy 520.7 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "846186eb-5c34-4808-8b7b-98c28c96f7b0")
+	)
+	(wire
+		(pts
+			(xy 241.3 83.82) (xy 228.6 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85a4a495-186e-480a-b22b-2a493873ff4a")
+	)
+	(wire
+		(pts
+			(xy 266.7 134.62) (xy 292.1 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "885b179e-1906-45d7-9d19-4d202e738dc2")
+	)
+	(wire
+		(pts
+			(xy 495.3 93.98) (xy 520.7 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "891e1b8f-133a-46ee-bab5-e67ba1ec9ccb")
+	)
+	(wire
+		(pts
+			(xy 533.4 119.38) (xy 533.4 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f443c9b-b746-41dc-be7a-91f364ba34bd")
+	)
+	(wire
+		(pts
+			(xy 375.92 76.2) (xy 386.08 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fbfd03b-cc1c-4e9d-a7d4-f94c3eea940f")
+	)
+	(wire
+		(pts
+			(xy 528.32 88.9) (xy 233.68 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "910c1699-9f22-474c-81e9-e8703f304f2a")
+	)
+	(wire
+		(pts
+			(xy 368.3 93.98) (xy 393.7 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "921f5bc9-bc84-49ff-83c7-6930d21346a5")
+	)
+	(wire
+		(pts
+			(xy 495.3 119.38) (xy 520.7 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92906080-ad32-4ac6-9d82-f945ea1b1852")
+	)
+	(wire
+		(pts
+			(xy 520.7 119.38) (xy 533.4 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93303644-6bfb-4d77-a08e-7acbfca77100")
+	)
+	(wire
+		(pts
+			(xy 477.52 127) (xy 487.68 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96ad89a1-89ad-465a-8937-e0859f5f21b9")
+	)
+	(wire
+		(pts
+			(xy 393.7 119.38) (xy 419.1 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99ca6eb2-a0fe-469c-a499-ada46c8b2b55")
+	)
+	(wire
+		(pts
+			(xy 342.9 83.82) (xy 368.3 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a475ea9-9281-4615-803c-3522e2806c4e")
+	)
+	(wire
+		(pts
+			(xy 292.1 134.62) (xy 317.5 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a8f6fd1-f7ef-402e-bb7a-477c40c19ec1")
+	)
+	(wire
+		(pts
+			(xy 452.12 101.6) (xy 462.28 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d16d7b9-b69c-4d9d-8ecf-c4f92f9d505a")
+	)
+	(wire
+		(pts
+			(xy 419.1 119.38) (xy 444.5 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9db6f6c4-b074-48a9-872e-aaf726e85652")
+	)
+	(wire
+		(pts
+			(xy 317.5 68.58) (xy 342.9 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e8f2ecc-ab7b-4999-86af-9356b81fbc73")
+	)
+	(wire
+		(pts
+			(xy 477.52 152.4) (xy 487.68 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f30c6c9-9c14-475d-9318-2e7b24e47705")
+	)
+	(wire
+		(pts
+			(xy 228.6 134.62) (xy 241.3 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a09bb6c3-bdcc-4f66-ac83-bc8f998c375d")
+	)
+	(wire
+		(pts
+			(xy 419.1 144.78) (xy 444.5 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a24cf91c-c6d6-4bca-98ad-cf7599cc0ee5")
+	)
+	(wire
+		(pts
+			(xy 444.5 160.02) (xy 469.9 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7ccdab0-09b0-425e-a073-e944c651b413")
+	)
+	(wire
+		(pts
+			(xy 393.7 134.62) (xy 419.1 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a91af480-374a-4303-b065-1c7fa290d22a")
+	)
+	(wire
+		(pts
+			(xy 401.32 101.6) (xy 411.48 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9c18cfe-e0f7-471e-a4fa-75b5c7147bdc")
+	)
+	(wire
+		(pts
+			(xy 266.7 119.38) (xy 292.1 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9d9590a-2c1d-4bd7-8587-c54c5018c877")
+	)
+	(wire
+		(pts
+			(xy 393.7 93.98) (xy 419.1 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aab677b9-29e5-44e8-8cbc-d7b8e43c98e4")
+	)
+	(wire
+		(pts
+			(xy 248.92 76.2) (xy 259.08 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab431fa4-182f-42ea-ae16-f031a619c4dd")
+	)
+	(wire
+		(pts
+			(xy 292.1 144.78) (xy 317.5 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae220aec-822c-4fe7-b3a7-62ab6bdc1ee7")
+	)
+	(wire
+		(pts
+			(xy 469.9 119.38) (xy 495.3 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aed78518-4e80-4728-ad61-802bd5bdf1c0")
+	)
+	(wire
+		(pts
+			(xy 444.5 109.22) (xy 469.9 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b078d827-ceac-4433-9b9c-7afa40b2a048")
+	)
+	(wire
+		(pts
+			(xy 325.12 101.6) (xy 335.28 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1700a97-7d9e-4f02-8815-39c291b4277e")
+	)
+	(wire
+		(pts
+			(xy 419.1 83.82) (xy 444.5 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4e431f1-b342-4ad9-8bfe-b074b6cecc76")
+	)
+	(wire
+		(pts
+			(xy 266.7 83.82) (xy 292.1 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4e7cde7-4c86-4660-bd8d-105960ef02f5")
+	)
+	(wire
+		(pts
+			(xy 495.3 83.82) (xy 520.7 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b97fd669-936a-4463-a2b8-03dba6e7b7e0")
+	)
+	(wire
+		(pts
+			(xy 342.9 109.22) (xy 368.3 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba6638a5-9f36-42f7-8283-0230e085f7d4")
+	)
+	(wire
+		(pts
+			(xy 317.5 119.38) (xy 342.9 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb5ac1a6-1031-49d0-90c2-3cdbaacbab22")
+	)
+	(wire
+		(pts
+			(xy 502.92 152.4) (xy 513.08 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc6d08db-595c-4e09-b041-9fe33b186f57")
+	)
+	(wire
+		(pts
+			(xy 299.72 76.2) (xy 309.88 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd3c7d1d-2116-464f-9340-1f6330aea22b")
+	)
+	(wire
+		(pts
+			(xy 368.3 144.78) (xy 393.7 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd8ab900-d36c-4b6d-b20a-8f7a248edda3")
+	)
+	(wire
+		(pts
+			(xy 266.7 68.58) (xy 292.1 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bed3406e-eb42-42a8-ac29-20eceda994a5")
+	)
+	(wire
+		(pts
+			(xy 233.68 114.3) (xy 233.68 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bed58a1e-7f74-4b45-ba26-f6793e09aed2")
+	)
+	(wire
+		(pts
+			(xy 233.68 139.7) (xy 528.32 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf3977ed-b5ba-4923-96e6-e841a33fc03a")
+	)
+	(wire
+		(pts
+			(xy 368.3 68.58) (xy 393.7 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c04681d5-7161-4c9a-8820-0dd4215c188f")
+	)
+	(wire
+		(pts
+			(xy 375.92 152.4) (xy 386.08 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c060234c-3fec-4b05-b041-b4208ecf3437")
+	)
+	(wire
+		(pts
+			(xy 495.3 68.58) (xy 520.7 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0c16c66-7d72-458d-a411-6434e9a4a119")
+	)
+	(wire
+		(pts
+			(xy 266.7 109.22) (xy 292.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1e2d119-ebb9-4ab2-80b2-c761510b43cb")
+	)
+	(wire
+		(pts
+			(xy 317.5 109.22) (xy 342.9 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3d7b5c0-0e8c-4d4d-a3a0-98baa5021722")
+	)
+	(wire
+		(pts
+			(xy 325.12 152.4) (xy 335.28 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4b0eeac-1021-4438-bbfe-f222a33760b6")
+	)
+	(wire
+		(pts
+			(xy 444.5 68.58) (xy 469.9 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c730ebfe-3382-41b9-8f6e-b08f51fc41bf")
+	)
+	(wire
+		(pts
+			(xy 241.3 109.22) (xy 266.7 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c959ab38-6ea3-46b6-bdfe-7371fd2efc1f")
+	)
+	(wire
+		(pts
+			(xy 495.3 109.22) (xy 520.7 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc6e4465-8ed6-4650-b787-ea9058c59a03")
+	)
+	(wire
+		(pts
+			(xy 452.12 152.4) (xy 462.28 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccd472ba-3fa5-4586-b935-701658b18be1")
+	)
+	(wire
+		(pts
+			(xy 419.1 134.62) (xy 444.5 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd0683d0-1e5c-44b7-a625-a04f9ce37c40")
+	)
+	(wire
+		(pts
+			(xy 469.9 160.02) (xy 495.3 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceb23bd3-7d86-4d2d-b749-94f266727f87")
+	)
+	(wire
+		(pts
+			(xy 393.7 144.78) (xy 419.1 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfb54a88-5174-476a-aa67-d61e9b859c0d")
+	)
+	(wire
+		(pts
+			(xy 444.5 93.98) (xy 469.9 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4f1b493-4131-4159-b165-aec871a66fb6")
+	)
+	(wire
+		(pts
+			(xy 266.7 93.98) (xy 292.1 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4f87592-598b-4787-89bb-12b95c223ee5")
+	)
+	(wire
+		(pts
+			(xy 401.32 127) (xy 411.48 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8d0b2c3-da19-44b6-8778-f1148afc402c")
+	)
+	(wire
+		(pts
+			(xy 477.52 101.6) (xy 487.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db33d299-bd78-4abb-8357-c2d8f6efc2d0")
+	)
+	(wire
+		(pts
+			(xy 228.6 134.62) (xy 228.6 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db6add2f-efec-40db-afe3-e46422443836")
+	)
+	(wire
+		(pts
+			(xy 401.32 76.2) (xy 411.48 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcb7e859-4079-416a-afe1-bcf00d4ba040")
+	)
+	(wire
+		(pts
+			(xy 477.52 76.2) (xy 487.68 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e008ef5f-795a-4311-92e3-80ffdd26028e")
+	)
+	(wire
+		(pts
+			(xy 520.7 68.58) (xy 533.4 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e07120a0-03d8-4d6d-a899-0373b48a5f2f")
+	)
+	(wire
+		(pts
+			(xy 317.5 160.02) (xy 342.9 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2f1004f-7bb3-4ce2-9f16-9ccf11465f64")
+	)
+	(wire
+		(pts
+			(xy 426.72 76.2) (xy 436.88 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e338de72-7a29-4e4f-9094-25f1eed75d09")
+	)
+	(wire
+		(pts
+			(xy 241.3 144.78) (xy 266.7 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4a39252-a446-49bd-8ce5-4708c36906b8")
+	)
+	(wire
+		(pts
+			(xy 292.1 109.22) (xy 317.5 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5725078-8439-4fa4-ad23-731d8da0ebab")
+	)
+	(wire
+		(pts
+			(xy 342.9 144.78) (xy 368.3 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6b046e0-3823-43ca-ad60-4cb0f871a4d1")
+	)
+	(wire
+		(pts
+			(xy 452.12 127) (xy 462.28 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ead1ae19-f8f6-4b68-9a8d-1a440ac04bf3")
+	)
+	(wire
+		(pts
+			(xy 325.12 76.2) (xy 335.28 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eea7fcd1-90ef-4bc0-9b58-a895a21c41fb")
+	)
+	(wire
+		(pts
+			(xy 292.1 68.58) (xy 317.5 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eea9d8af-7a44-4a05-8116-2bba43c347ce")
+	)
+	(wire
+		(pts
+			(xy 375.92 101.6) (xy 386.08 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efad62d9-36a1-417f-b6c4-eb4846d7c169")
+	)
+	(wire
+		(pts
+			(xy 241.3 68.58) (xy 266.7 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f02a3b03-10f7-43a0-bead-80a59c021a96")
+	)
+	(wire
+		(pts
+			(xy 317.5 93.98) (xy 342.9 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1d2cfde-ae37-468b-acaa-9c1d317de3ec")
+	)
+	(wire
+		(pts
+			(xy 502.92 76.2) (xy 513.08 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3c93415-acbf-4b76-a3cc-cbf8442a70d1")
+	)
+	(wire
+		(pts
+			(xy 317.5 134.62) (xy 342.9 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f527fbeb-087f-4df5-8edf-9113a9ee83f8")
+	)
+	(wire
+		(pts
+			(xy 393.7 160.02) (xy 419.1 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7ad59b8-6f07-48a7-b840-e1ad9bdff28d")
+	)
+	(wire
+		(pts
+			(xy 426.72 101.6) (xy 436.88 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8ed057d-8a7c-4b6a-9e5b-c2616faeed87")
+	)
+	(wire
+		(pts
+			(xy 368.3 109.22) (xy 393.7 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9ddd90d-909a-454c-93e6-000ed4d2a94f")
+	)
+	(wire
+		(pts
+			(xy 274.32 76.2) (xy 284.48 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe7d8b3f-3c1c-4d02-9570-a598f7b37b9e")
+	)
+	(wire
+		(pts
+			(xy 452.12 76.2) (xy 462.28 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffd78eed-d341-449f-91f4-30a6860a9743")
+	)
+	(global_label "WS_Led"
+		(shape input)
+		(at 228.6 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c3ff12c2-4e6d-4001-a248-2e78f20773ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 218.7206 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
 			)
 		)
 	)
@@ -2463,7 +4771,7 @@
 	)
 	(symbol
 		(lib_id "Device:Buzzer")
-		(at 346.71 142.24 0)
+		(at 351.79 226.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2472,7 +4780,7 @@
 		(fields_autoplaced yes)
 		(uuid "05413063-5d4a-4bb4-8d9d-48c2c0b5f1ce")
 		(property "Reference" "BZ1"
-			(at 350.52 140.9699 0)
+			(at 355.6 224.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2481,7 +4789,7 @@
 			)
 		)
 		(property "Value" "Buzzer"
-			(at 350.52 143.5099 0)
+			(at 355.6 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2490,7 +4798,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 346.075 139.7 90)
+			(at 351.155 223.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2499,7 +4807,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 346.075 139.7 90)
+			(at 351.155 223.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2508,7 +4816,7 @@
 			)
 		)
 		(property "Description" "Buzzer, polarized"
-			(at 346.71 142.24 0)
+			(at 351.79 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2736,6 +5044,158 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 266.7 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ac87685-d2b8-4092-b279-2f15293f440e")
+		(property "Reference" "D110"
+			(at 279.4 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 279.4 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 267.97 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 269.24 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "af1449e8-9f44-4911-a769-884d7ced0a31")
+		)
+		(pin "1"
+			(uuid "a3cced61-114b-4c84-894b-df76baab74c6")
+		)
+		(pin "4"
+			(uuid "31c230d4-dff4-425d-8641-ede5d0ad79a9")
+		)
+		(pin "2"
+			(uuid "17380af3-eedc-43e3-a48f-d2be1a9b6bdc")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 393.7 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b84cba2-c4e5-4c9d-94b9-9720a02c7b2b")
+		(property "Reference" "D133"
+			(at 406.4 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 406.4 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 394.97 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 396.24 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 393.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "30dff3aa-fb49-4045-acb1-47b1b6c5bb6c")
+		)
+		(pin "1"
+			(uuid "61f9fa0d-a79a-4d4c-8d29-8581dc3ee683")
+		)
+		(pin "4"
+			(uuid "1e0db3a3-923d-4b37-bc01-a149e09abd29")
+		)
+		(pin "2"
+			(uuid "84ede5d6-8374-4c88-9844-cc2861738270")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D133")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 91.44 78.74 0)
 		(unit 1)
@@ -2866,6 +5326,73 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 228.6 68.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0dab48c3-b591-4f02-81af-dbc36bcedfb7")
+		(property "Reference" "#PWR05"
+			(at 232.41 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 224.79 68.5799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 228.6 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11b76cf1-8442-4c57-b1d5-72005417e2fb")
+		)
+		(instances
+			(project ""
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3114,6 +5641,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 241.3 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "105d155b-58b2-411c-bda8-821817386411")
+		(property "Reference" "D109"
+			(at 254 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 254 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 242.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 243.84 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 241.3 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "35acc91a-660d-4a34-8c59-3700866a46c2")
+		)
+		(pin "1"
+			(uuid "f51a057d-0f32-4d6d-9b06-a711c4d59f15")
+		)
+		(pin "4"
+			(uuid "1e6dce49-81b8-467b-9170-6413da2a3ede")
+		)
+		(pin "2"
+			(uuid "d818c3e0-31fb-4afb-b54b-20c11fa3e16d")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 68.58 161.29 90)
 		(unit 1)
@@ -3202,7 +5805,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 455.93 158.75 90)
+		(at 461.01 242.57 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3211,7 +5814,7 @@
 		(fields_autoplaced yes)
 		(uuid "13237cee-8f35-47f1-9855-139e8b5f44d4")
 		(property "Reference" "#PWR01"
-			(at 462.28 158.75 0)
+			(at 467.36 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3220,7 +5823,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 459.74 158.7499 90)
+			(at 464.82 242.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3229,7 +5832,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 455.93 158.75 0)
+			(at 461.01 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3238,7 +5841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 455.93 158.75 0)
+			(at 461.01 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3247,7 +5850,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 455.93 158.75 0)
+			(at 461.01 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3578,6 +6181,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 241.3 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19a1c3cc-418d-4e76-b29e-0d11be5f45db")
+		(property "Reference" "D121"
+			(at 254 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 254 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 242.57 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 243.84 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 241.3 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "7c48052f-0067-475d-acd3-89dc07e2c250")
+		)
+		(pin "1"
+			(uuid "68037084-6b39-4665-96fb-086507da13f0")
+		)
+		(pin "4"
+			(uuid "217edbe9-d2dd-4664-9689-fe8a71f4fb47")
+		)
+		(pin "2"
+			(uuid "25d73bd3-99df-47f1-aee1-0d6fbc0b694d")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D121")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 55.88 212.09 90)
 		(unit 1)
@@ -3801,82 +6480,6 @@
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 353.06 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ca9abac-aa44-454f-a440-81b9cf67e594")
-		(property "Reference" "D108"
-			(at 365.76 96.5514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_WS2812B"
-			(at 365.76 99.0914 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 354.33 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 355.6 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 353.06 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "8b72a612-b315-45fa-947c-38a61af2b513")
-		)
-		(pin "1"
-			(uuid "e8cf152f-f78b-4b7f-b762-71758d0dcd8b")
-		)
-		(pin "4"
-			(uuid "26b3bdf5-0b2b-4d98-aadc-bf642e14e876")
-		)
-		(pin "2"
-			(uuid "35060cd8-8d25-479e-9a67-a93ba1ee73a0")
-		)
-		(instances
-			(project "myCompactKeyboard"
-				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D108")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 81.28 212.09 90)
 		(unit 1)
@@ -4026,6 +6629,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 292.1 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20ce8f4e-31a4-4088-9445-076f83edbb24")
+		(property "Reference" "D125"
+			(at 304.8 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 304.8 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 293.37 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 294.64 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 292.1 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "86ee2051-2432-4b0d-8125-5b0f5dda9bd3")
+		)
+		(pin "1"
+			(uuid "fc124135-8cc2-4ce4-a10d-ecc42f663e44")
+		)
+		(pin "4"
+			(uuid "c2081b78-be29-43cd-8b2a-b5736433841f")
+		)
+		(pin "2"
+			(uuid "7f609f4c-82fb-451a-956d-7a39e52c3fff")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D125")
 					(unit 1)
 				)
 			)
@@ -4603,6 +7282,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 292.1 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c551df7-d015-4db8-8730-255be00b337a")
+		(property "Reference" "D111"
+			(at 304.8 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 304.8 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 293.37 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 294.64 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 292.1 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "a9404b2c-412f-4985-820e-57404ee2fa26")
+		)
+		(pin "1"
+			(uuid "7abb4c1d-5154-4280-816f-f4a08b32b4f4")
+		)
+		(pin "4"
+			(uuid "ea81c02a-9c23-485c-b162-6411b1b61597")
+		)
+		(pin "2"
+			(uuid "a54acde9-aed3-45f3-b764-8705e59d7998")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 53.34 231.14 0)
 		(unit 1)
@@ -4672,16 +7427,16 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 381 76.2 0)
+		(at 469.9 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2eb38cfb-9396-4e53-8b99-01295b8970e2")
-		(property "Reference" "D104"
-			(at 393.7 69.8814 0)
+		(uuid "2d474468-e5ce-4173-9c65-4f091ea839f3")
+		(property "Reference" "D140"
+			(at 482.6 146.0814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4689,7 +7444,7 @@
 			)
 		)
 		(property "Value" "LED_WS2812B"
-			(at 393.7 72.4214 0)
+			(at 482.6 148.6214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4697,7 +7452,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 382.27 83.82 0)
+			(at 471.17 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4707,7 +7462,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 383.54 85.725 0)
+			(at 472.44 161.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4717,7 +7472,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 381 76.2 0)
+			(at 469.9 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4726,21 +7481,21 @@
 			)
 		)
 		(pin "3"
-			(uuid "e3780630-ff08-4526-80cc-0b1b612ab712")
+			(uuid "84e538b5-bfb5-42e0-816b-68a73cea1c27")
 		)
 		(pin "1"
-			(uuid "86b54d3a-7d4d-4e1e-a097-14f139a3a869")
+			(uuid "2deaca19-ad23-4753-9785-3f2744cff169")
 		)
 		(pin "4"
-			(uuid "c48757db-925b-4270-82a8-4e6baf37b5a2")
+			(uuid "107f990e-e26e-4810-ab65-363b5b6796c9")
 		)
 		(pin "2"
-			(uuid "cee1c835-5eab-422b-8c77-a0bfcc565e83")
+			(uuid "73ff9bed-e896-4e5d-bc7c-13541f15f715")
 		)
 		(instances
-			(project ""
+			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D104")
+					(reference "D140")
 					(unit 1)
 				)
 			)
@@ -4983,6 +7738,158 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "D71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 469.9 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36c4d86a-83a3-46a0-9a3d-523c03f94594")
+		(property "Reference" "D139"
+			(at 482.6 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 482.6 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 471.17 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 472.44 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 469.9 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ad75e81b-f1d4-44df-81fe-bd3bbd676e88")
+		)
+		(pin "1"
+			(uuid "d07ead13-ddd4-41c7-bfcd-00486905316e")
+		)
+		(pin "4"
+			(uuid "1192a360-bdb4-4a20-b105-64cc3443d570")
+		)
+		(pin "2"
+			(uuid "4d78beb5-3e5b-4f60-98fb-39efd1097682")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D139")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 495.3 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36e829c1-b041-4612-8335-93251d2d9d16")
+		(property "Reference" "D107"
+			(at 508 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 508 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 496.57 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 497.84 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 495.3 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ee697da8-6573-4bbc-9417-f1546d6eb129")
+		)
+		(pin "1"
+			(uuid "3e91a03e-549a-4d9d-ade9-9090807c4842")
+		)
+		(pin "4"
+			(uuid "98848e87-19bf-4daf-8bb3-2f6570c38ae6")
+		)
+		(pin "2"
+			(uuid "02a86c8a-cb47-49fb-82f9-34d459357d0e")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D107")
 					(unit 1)
 				)
 			)
@@ -7410,6 +10317,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 368.3 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "502ceccb-ae13-4f7a-bfe2-e0b8f3024491")
+		(property "Reference" "D102"
+			(at 381 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 381 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 369.57 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 370.84 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 368.3 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "cf36caf1-76dc-432f-9a61-23304c3b7edb")
+		)
+		(pin "1"
+			(uuid "42b83dfe-8bff-4298-9711-b70e64172e27")
+		)
+		(pin "4"
+			(uuid "d573e7be-9d15-4340-906c-56d35ef24b0c")
+		)
+		(pin "2"
+			(uuid "5b3e4bcd-b671-4d22-b54e-cab321405ebf")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 78.74 180.34 0)
 		(unit 1)
@@ -8128,6 +11111,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 495.3 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b8e3af1-94a6-4a5f-ba5d-d5223fb19fe1")
+		(property "Reference" "D141"
+			(at 508 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 508 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 496.57 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 497.84 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 495.3 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9d15d010-05fd-479c-8ef3-fc686f6ba749")
+		)
+		(pin "1"
+			(uuid "08f385a2-cb5f-4ff5-9ef6-82089e367b42")
+		)
+		(pin "4"
+			(uuid "cacb90ca-47a0-42f6-819c-0e2ea15b1115")
+		)
+		(pin "2"
+			(uuid "f0e6a1d7-b7b3-4ac8-a6e5-fb5c994f7f43")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D141")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 78.74 78.74 0)
 		(unit 1)
@@ -8757,6 +11816,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 317.5 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "616c20c4-7152-49c9-b2c3-ba90614bd5c7")
+		(property "Reference" "D128"
+			(at 330.2 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 330.2 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 318.77 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 320.04 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 317.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "15e3a9b7-1411-4ff5-b139-47ec78ce2cc7")
+		)
+		(pin "1"
+			(uuid "0efb4ed6-752a-4fe6-8977-8ad9588be6d4")
+		)
+		(pin "4"
+			(uuid "8bac22c6-f8c9-467d-99ee-f177ca44c346")
+		)
+		(pin "2"
+			(uuid "baea1ac8-e5d3-4afe-a026-2f92cec779f4")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D128")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 40.64 154.94 0)
 		(unit 1)
@@ -8913,16 +12048,16 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 353.06 76.2 0)
+		(at 495.3 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "64ab0fec-a7dd-4d26-9006-5bb87ceed7a5")
-		(property "Reference" "D103"
-			(at 365.76 69.8814 0)
+		(uuid "63a14ca0-89f0-4eee-875b-01ef1ca0e114")
+		(property "Reference" "D119"
+			(at 508 95.2814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8930,7 +12065,7 @@
 			)
 		)
 		(property "Value" "LED_WS2812B"
-			(at 365.76 72.4214 0)
+			(at 508 97.8214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8938,7 +12073,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 354.33 83.82 0)
+			(at 496.57 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8948,7 +12083,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 355.6 85.725 0)
+			(at 497.84 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8958,7 +12093,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 353.06 76.2 0)
+			(at 495.3 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8967,21 +12102,21 @@
 			)
 		)
 		(pin "3"
-			(uuid "e3780630-ff08-4526-80cc-0b1b612ab713")
+			(uuid "849984a0-95f9-41b6-8b1b-4352a970ddc5")
 		)
 		(pin "1"
-			(uuid "86b54d3a-7d4d-4e1e-a097-14f139a3a86a")
+			(uuid "f025a1bf-2e49-44d7-9a03-fb00d49692ca")
 		)
 		(pin "4"
-			(uuid "c48757db-925b-4270-82a8-4e6baf37b5a3")
+			(uuid "8b21c914-7068-4e11-940c-572ae1db702e")
 		)
 		(pin "2"
-			(uuid "cee1c835-5eab-422b-8c77-a0bfcc565e84")
+			(uuid "d1a671bd-c5cc-4ea4-b0b8-99260975fc70")
 		)
 		(instances
-			(project ""
+			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D103")
+					(reference "D119")
 					(unit 1)
 				)
 			)
@@ -9515,6 +12650,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "D68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 317.5 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6af61882-a019-4dc8-bd13-10ec46d0c684")
+		(property "Reference" "D112"
+			(at 330.2 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 330.2 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 318.77 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 320.04 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 317.5 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "53340c54-cea6-4bce-b6a3-2a429e13930a")
+		)
+		(pin "1"
+			(uuid "e695c464-ab32-4340-a8bf-ca659c404c9c")
+		)
+		(pin "4"
+			(uuid "6ab7c116-47f4-4db4-8cfe-7dc345537cc0")
+		)
+		(pin "2"
+			(uuid "ecc7fd7e-ae65-4d4f-84dc-aaa19e67a628")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D112")
 					(unit 1)
 				)
 			)
@@ -10818,33 +14029,35 @@
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:MCU_Raspberry_Pi_Pico")
-		(at 440.69 139.7 0)
+		(lib_id "power:+5V")
+		(at 461.01 199.39 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7e0e8e4a-ac53-4b84-91ea-9e89c06f9fd5")
-		(property "Reference" "U1"
-			(at 440.69 107.95 0)
+		(uuid "7d1ac226-3f6a-41c6-bd9a-ab3e3979750f")
+		(property "Reference" "#PWR04"
+			(at 457.2 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Value" "Raspberry_Pi_Pico"
-			(at 440.69 110.49 0)
+		(property "Value" "+5V"
+			(at 464.82 199.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MCU:Raspberry_Pi_Pico"
-			(at 440.69 109.22 0)
+		(property "Footprint" ""
+			(at 461.01 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10853,7 +14066,148 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 440.69 139.7 0)
+			(at 461.01 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 461.01 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11b76cf1-8442-4c57-b1d5-72005417e2fb")
+		)
+		(instances
+			(project ""
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 419.1 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d638c55-83e3-4b55-821c-96a8e423c847")
+		(property "Reference" "D136"
+			(at 431.8 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 431.8 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 420.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 421.64 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 419.1 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "7705740c-dcac-452a-bc9f-936f1dea75ec")
+		)
+		(pin "1"
+			(uuid "ceb3aad8-6830-4b34-a06a-5f33334babcf")
+		)
+		(pin "4"
+			(uuid "a7edb11c-f2e2-472e-9d16-e7c1f13e20cc")
+		)
+		(pin "2"
+			(uuid "8d408bde-691a-4d46-b11d-f94a63288032")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D136")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:MCU_Raspberry_Pi_Pico")
+		(at 445.77 223.52 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e0e8e4a-ac53-4b84-91ea-9e89c06f9fd5")
+		(property "Reference" "U1"
+			(at 445.77 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Raspberry_Pi_Pico"
+			(at 445.77 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MCU:Raspberry_Pi_Pico"
+			(at 445.77 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 445.77 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10862,7 +14216,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 440.69 139.7 0)
+			(at 445.77 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11270,6 +14624,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 266.7 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "813ca34a-6b0a-4b24-b0b5-0f9e5ea540b4")
+		(property "Reference" "D98"
+			(at 279.4 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 279.4 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 267.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 269.24 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "2becf2ed-c2f0-41e7-ab28-9042f7acc480")
+		)
+		(pin "1"
+			(uuid "6c8a2c3f-2c64-4a8e-9ca8-79dd622bd370")
+		)
+		(pin "4"
+			(uuid "cbd4b25c-e0b9-4667-803e-72709eb0dd07")
+		)
+		(pin "2"
+			(uuid "05bf202f-d40c-4844-94fa-872f0937a43a")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D98")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 81.28 237.49 90)
 		(unit 1)
@@ -11599,6 +15029,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 444.5 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8920f529-6922-4d77-82c8-edb9ae7b5723")
+		(property "Reference" "D117"
+			(at 457.2 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 457.2 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 445.77 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 447.04 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 444.5 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "8f7973f7-a47e-4451-92db-8cf18d397ce6")
+		)
+		(pin "1"
+			(uuid "2e5a599e-9eb3-4ac9-93ee-4d80b27f8b75")
+		)
+		(pin "4"
+			(uuid "bbb41610-a345-45b8-a721-a63dcc4b6384")
+		)
+		(pin "2"
+			(uuid "6154b1ba-e6d0-44bf-aa26-8540b2203586")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D117")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 66.04 78.74 0)
 		(unit 1)
@@ -11729,6 +15235,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S87")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 520.7 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8fab8fd6-56f6-495b-9b38-946b4c182a2a")
+		(property "Reference" "D120"
+			(at 533.4 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 533.4 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 521.97 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 523.24 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 520.7 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "004afae6-a721-4c86-a040-2af3c57fa782")
+		)
+		(pin "1"
+			(uuid "1797c004-9285-4e10-8b55-c7b00b5daf54")
+		)
+		(pin "4"
+			(uuid "9f85a8ee-b5d0-4529-90cb-b150175e2e10")
+		)
+		(pin "2"
+			(uuid "585ed105-c3c7-4494-93e2-606ef0feacf0")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D120")
 					(unit 1)
 				)
 			)
@@ -12145,6 +15727,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 342.9 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "96fbb254-f233-4cec-a655-f1023aa7a2cb")
+		(property "Reference" "D130"
+			(at 355.6 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 355.6 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 344.17 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 345.44 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 342.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "8e9b0f90-c081-431e-b0ef-313c5150c2dd")
+		)
+		(pin "1"
+			(uuid "b2b489f9-8948-479c-a597-2542501c8e1a")
+		)
+		(pin "4"
+			(uuid "a287be7f-cd66-4faf-9534-5c3eec626b5f")
+		)
+		(pin "2"
+			(uuid "8926d145-4aa5-4f55-89a8-e595d2fea170")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D130")
 					(unit 1)
 				)
 			)
@@ -12598,16 +16256,16 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 407.67 76.2 0)
+		(at 317.5 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9e7904ab-9ab6-4f8a-a647-baa35927e769")
-		(property "Reference" "D105"
-			(at 420.37 69.8814 0)
+		(uuid "9dc712bf-e4e2-45b1-8491-18c522443a3d")
+		(property "Reference" "D100"
+			(at 330.2 69.8814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12615,7 +16273,7 @@
 			)
 		)
 		(property "Value" "LED_WS2812B"
-			(at 420.37 72.4214 0)
+			(at 330.2 72.4214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12623,7 +16281,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 408.94 83.82 0)
+			(at 318.77 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12633,7 +16291,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 410.21 85.725 0)
+			(at 320.04 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12643,7 +16301,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 407.67 76.2 0)
+			(at 317.5 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12652,21 +16310,97 @@
 			)
 		)
 		(pin "3"
-			(uuid "e3780630-ff08-4526-80cc-0b1b612ab714")
+			(uuid "9f311a0a-f9e5-4e80-ac8e-466d8c2466f8")
 		)
 		(pin "1"
-			(uuid "86b54d3a-7d4d-4e1e-a097-14f139a3a86b")
+			(uuid "908dc5f6-de76-4cdd-83d5-c956dd56d6a0")
 		)
 		(pin "4"
-			(uuid "c48757db-925b-4270-82a8-4e6baf37b5a4")
+			(uuid "c37a7f07-53e6-4f27-84bb-6a7ddef9dc0b")
 		)
 		(pin "2"
-			(uuid "cee1c835-5eab-422b-8c77-a0bfcc565e85")
+			(uuid "01de779d-23cb-4254-b1c3-a56b736a3e3e")
 		)
 		(instances
-			(project ""
+			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D105")
+					(reference "D100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 444.5 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e246e39-98a0-472a-8df6-5a183ea4565a")
+		(property "Reference" "D137"
+			(at 457.2 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 457.2 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 445.77 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 447.04 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 444.5 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "dd707ec8-f1dd-4565-8088-f6752d67a1b7")
+		)
+		(pin "1"
+			(uuid "5ac744b8-2758-44ac-b97d-a5dfb7af8c4a")
+		)
+		(pin "4"
+			(uuid "7a006d46-1920-4372-9ede-14801499059c")
+		)
+		(pin "2"
+			(uuid "9bbf7a0c-280b-4204-84a9-5d01077fe75d")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D137")
 					(unit 1)
 				)
 			)
@@ -13176,6 +16910,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 342.9 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8fd3998-be92-4f76-b011-54f2b7ccffc1")
+		(property "Reference" "D129"
+			(at 355.6 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 355.6 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 344.17 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 345.44 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 342.9 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "21e3dc0a-f4cb-4781-be5d-8b7729ac94d1")
+		)
+		(pin "1"
+			(uuid "0e8f0f0b-0466-49b5-bb46-362bc0a170d1")
+		)
+		(pin "4"
+			(uuid "b7410173-15f3-448e-b1a0-dbb718570717")
+		)
+		(pin "2"
+			(uuid "b276a9fd-04fd-4c1c-a0dd-a3dfce949334")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D129")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 167.64 53.34 0)
 		(unit 1)
@@ -13325,6 +17135,158 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "D45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 495.3 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aab2952f-e389-44fc-b102-49d6c4635ac7")
+		(property "Reference" "D142"
+			(at 508 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 508 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 496.57 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 497.84 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 495.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "6550dcac-e8b1-434d-a728-aa080c672b36")
+		)
+		(pin "1"
+			(uuid "4b89811e-ec67-4c69-8c89-3ee12458af04")
+		)
+		(pin "4"
+			(uuid "e7c3da90-1409-4803-a045-b2352158e9c6")
+		)
+		(pin "2"
+			(uuid "50289dbb-945b-4220-a887-f95bb8ec827b")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D142")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 241.3 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aad7bfc6-ed9b-44ae-8238-9ab91be27a6c")
+		(property "Reference" "D97"
+			(at 254 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 254 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 242.57 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 243.84 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 241.3 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "27178524-b4d2-49c5-bc5d-99301a67d38f")
+		)
+		(pin "1"
+			(uuid "528384df-2567-4ea5-bf46-dded31419ca5")
+		)
+		(pin "4"
+			(uuid "646099f9-ccf7-4a97-9928-3cbb2d0ed856")
+		)
+		(pin "2"
+			(uuid "23d51340-ccd7-4cd7-9d3c-49e210b29416")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D97")
 					(unit 1)
 				)
 			)
@@ -13797,7 +17759,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 293.37 76.2 0)
+		(at 342.9 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13806,7 +17768,7 @@
 		(fields_autoplaced yes)
 		(uuid "b06e6c95-5262-41df-83c4-c66d32223568")
 		(property "Reference" "D101"
-			(at 306.07 69.8814 0)
+			(at 355.6 69.8814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13814,7 +17776,7 @@
 			)
 		)
 		(property "Value" "LED_WS2812B"
-			(at 306.07 72.4214 0)
+			(at 355.6 72.4214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13822,7 +17784,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 294.64 83.82 0)
+			(at 344.17 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13832,7 +17794,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 295.91 85.725 0)
+			(at 345.44 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13842,7 +17804,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 293.37 76.2 0)
+			(at 342.9 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13940,6 +17902,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 368.3 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1c09d0d-f1bf-489e-aa49-76b9de413c54")
+		(property "Reference" "D132"
+			(at 381 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 381 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 369.57 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 370.84 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 368.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "14a6dcf6-7d20-4ba7-b2e7-933f8fa15f1a")
+		)
+		(pin "1"
+			(uuid "d479faa2-afe7-4668-a8d5-6852b4689b9a")
+		)
+		(pin "4"
+			(uuid "ea5a55b6-a77b-4561-b684-f7a86896d420")
+		)
+		(pin "2"
+			(uuid "45052887-bb0f-42c6-bad0-4a6466b91119")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D132")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 170.18 161.29 90)
 		(unit 1)
@@ -14021,6 +18059,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "D89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 393.7 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5422b4c-1182-4087-b010-87c2e6fa130a")
+		(property "Reference" "D103"
+			(at 406.4 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 406.4 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 394.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 396.24 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 393.7 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "6b2c1e3b-bb55-427a-9417-05727809c3b7")
+		)
+		(pin "1"
+			(uuid "706328df-be38-43eb-9c3d-bf0936742033")
+		)
+		(pin "4"
+			(uuid "d0942028-823b-4ce9-ba2b-c688fdc2047e")
+		)
+		(pin "2"
+			(uuid "5d2423bc-d7c7-4d0b-ad33-2cdccdf42a5e")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D103")
 					(unit 1)
 				)
 			)
@@ -14114,6 +18228,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 241.3 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7f9d2e1-5276-4625-a64a-22a4155e59d9")
+		(property "Reference" "D122"
+			(at 254 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 254 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 242.57 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 243.84 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 241.3 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "c8a4d70f-0aee-4ba9-a387-bd3bebe7d943")
+		)
+		(pin "1"
+			(uuid "114a05d7-e49b-42d6-a4da-b8cb43c5844f")
+		)
+		(pin "4"
+			(uuid "4830eac8-2726-4e01-9dc2-f7e1be34a341")
+		)
+		(pin "2"
+			(uuid "3ceace2d-c7fc-45ba-9c8c-f9376b8f987d")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D122")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 129.54 205.74 0)
 		(unit 1)
@@ -14183,7 +18373,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:OLED_128x64")
-		(at 292.1 138.43 0)
+		(at 297.18 222.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14192,7 +18382,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9bcd47e-743e-48cb-bd2f-7f4f90068154")
 		(property "Reference" "J1"
-			(at 303.53 142.2399 0)
+			(at 308.61 226.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14201,7 +18391,7 @@
 			)
 		)
 		(property "Value" "OLED_128x64"
-			(at 303.53 144.7799 0)
+			(at 308.61 228.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14210,7 +18400,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:OLED_128x64"
-			(at 292.1 152.4 0)
+			(at 297.18 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14219,7 +18409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 138.43 90)
+			(at 298.45 222.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14228,7 +18418,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 292.1 138.43 0)
+			(at 297.18 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14252,82 +18442,6 @@
 			(project ""
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 381 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ba27d0ed-a479-40e5-899a-25d976178c55")
-		(property "Reference" "D109"
-			(at 393.7 96.5514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_WS2812B"
-			(at 393.7 99.0914 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 382.27 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 383.54 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 381 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "34196707-aff7-4b46-8ac0-2b96e7957ff7")
-		)
-		(pin "1"
-			(uuid "ae513c88-ef56-4674-901e-1b6d641bb1d6")
-		)
-		(pin "4"
-			(uuid "f531c41f-f368-4831-a431-9e15076cc23a")
-		)
-		(pin "2"
-			(uuid "e914e3f8-db24-4501-ad25-b94a86d80219")
-		)
-		(instances
-			(project "myCompactKeyboard"
-				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D109")
 					(unit 1)
 				)
 			)
@@ -14470,6 +18584,158 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 444.5 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc3b2956-8457-454f-a175-a5f981b74a77")
+		(property "Reference" "D138"
+			(at 457.2 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 457.2 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 445.77 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 447.04 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 444.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "c338f052-7d34-43b9-a763-40d043f9aefd")
+		)
+		(pin "1"
+			(uuid "8a09eda3-7379-4d14-9f40-cf0908dc8b49")
+		)
+		(pin "4"
+			(uuid "52415bf5-cf41-4c47-ac13-b98569dbc333")
+		)
+		(pin "2"
+			(uuid "1a3bee5f-58db-43c7-a2bb-6eec39a3475d")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D138")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 520.7 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd0a958f-2223-4aa8-9e25-19b00c7ea9ac")
+		(property "Reference" "D144"
+			(at 533.4 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 533.4 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 521.97 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 523.24 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 520.7 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ffc7bc1c-8bfb-4e1e-9443-8c58d5e8defe")
+		)
+		(pin "1"
+			(uuid "f05818e4-2f52-4384-b459-f8a650f6bda7")
+		)
+		(pin "4"
+			(uuid "9b13d491-ae16-4de8-bb02-5bd42b8f52d7")
+		)
+		(pin "2"
+			(uuid "102551f9-a50d-46a1-8df6-d6562cfa5ea0")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D144")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 104.14 78.74 0)
 		(unit 1)
@@ -14532,6 +18798,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 469.9 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be85039c-ce0b-40c2-ac29-c49a6565c7df")
+		(property "Reference" "D106"
+			(at 482.6 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 482.6 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 471.17 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 472.44 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 469.9 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d28bd6f9-50f0-4065-b232-530bda55f23b")
+		)
+		(pin "1"
+			(uuid "60e875a1-dec0-49ef-940d-6d9f0faecb5f")
+		)
+		(pin "4"
+			(uuid "ab4ace3d-bce1-400b-aeef-4176737a3a4d")
+		)
+		(pin "2"
+			(uuid "97ff8082-7115-4644-95ab-367b79d9e6aa")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D106")
 					(unit 1)
 				)
 			)
@@ -15400,6 +19742,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 469.9 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cac21079-2f20-476c-933b-b57bdb76dc6e")
+		(property "Reference" "D118"
+			(at 482.6 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 482.6 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 471.17 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 472.44 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 469.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "917f0cec-e8d0-44cd-b95c-6ffc0702f1be")
+		)
+		(pin "1"
+			(uuid "f4f47461-ad96-4aa5-835e-44d50ab2ffb3")
+		)
+		(pin "4"
+			(uuid "25e5f54e-1e9b-4172-a88b-bc8c824f0319")
+		)
+		(pin "2"
+			(uuid "ff0621ed-6495-4234-a10f-286364e521b6")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 43.18 186.69 90)
 		(unit 1)
@@ -15574,6 +19992,82 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 444.5 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cbbec87f-1ef5-4689-86f9-a0f868185e34")
+		(property "Reference" "D105"
+			(at 457.2 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 457.2 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 445.77 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 447.04 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 444.5 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "78c6d9de-8790-4734-8ed4-66c369bd4d21")
+		)
+		(pin "1"
+			(uuid "e86cffca-34db-4a35-a495-8a979e6181df")
+		)
+		(pin "4"
+			(uuid "bdfd656d-169f-4f51-958f-bf4739b52f44")
+		)
+		(pin "2"
+			(uuid "180be45c-94b6-4fb5-b1a0-1ad74294ddaa")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 157.48 237.49 90)
 		(unit 1)
@@ -15662,16 +20156,16 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 323.85 76.2 0)
+		(at 317.5 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d0c2519c-a738-443d-8617-4c805f374334")
-		(property "Reference" "D102"
-			(at 336.55 69.8814 0)
+		(uuid "ceb1e0f9-e1ac-4135-8339-2c3f079b0c70")
+		(property "Reference" "D127"
+			(at 330.2 120.6814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15679,7 +20173,7 @@
 			)
 		)
 		(property "Value" "LED_WS2812B"
-			(at 336.55 72.4214 0)
+			(at 330.2 123.2214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15687,7 +20181,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 325.12 83.82 0)
+			(at 318.77 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15697,7 +20191,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 326.39 85.725 0)
+			(at 320.04 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15707,7 +20201,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 323.85 76.2 0)
+			(at 317.5 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15716,21 +20210,88 @@
 			)
 		)
 		(pin "3"
-			(uuid "e3780630-ff08-4526-80cc-0b1b612ab716")
+			(uuid "1ebe114b-4481-4e7b-9c52-0c8fb565076a")
 		)
 		(pin "1"
-			(uuid "86b54d3a-7d4d-4e1e-a097-14f139a3a86d")
+			(uuid "aaa42ee3-5b4c-42b8-9ade-917550e355f4")
 		)
 		(pin "4"
-			(uuid "c48757db-925b-4270-82a8-4e6baf37b5a6")
+			(uuid "8ed1593e-62c3-41eb-aa73-b40ff9c5fe45")
 		)
 		(pin "2"
-			(uuid "cee1c835-5eab-422b-8c77-a0bfcc565e87")
+			(uuid "a41039b0-bbf4-4c4e-b7b0-b3cd0df2de5d")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D127")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 228.6 83.82 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfdc7003-7428-41fc-95a8-99ff6270696d")
+		(property "Reference" "#PWR03"
+			(at 222.25 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 224.79 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 228.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6bc364c7-314d-48cd-9e3e-1e1465028a62")
 		)
 		(instances
 			(project ""
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D102")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -15867,6 +20428,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 368.3 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0de1789-cc42-4873-8a61-8fc817f61476")
+		(property "Reference" "D131"
+			(at 381 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 381 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 369.57 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 370.84 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 368.3 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "c4b0e144-e458-4f2f-98f6-e45d74cee295")
+		)
+		(pin "1"
+			(uuid "68626795-99ac-43b2-86c7-7f354cab886e")
+		)
+		(pin "4"
+			(uuid "92930217-8a9a-4af6-9e1f-ccd0985a3d61")
+		)
+		(pin "2"
+			(uuid "7695e86f-763f-41dd-8412-4ad0b212d16d")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D131")
 					(unit 1)
 				)
 			)
@@ -16115,6 +20752,158 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 292.1 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d72fdb67-2f9f-49fa-96f0-e95398038c61")
+		(property "Reference" "D126"
+			(at 304.8 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 304.8 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 293.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 294.64 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 292.1 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "91f2e565-cd00-464d-b897-17cf916720e4")
+		)
+		(pin "1"
+			(uuid "ed37e4d6-e67d-4651-8544-e69e06a8a0fb")
+		)
+		(pin "4"
+			(uuid "f14f66d8-e211-4981-93dc-f99b24e5d183")
+		)
+		(pin "2"
+			(uuid "2a03cdd0-61c0-48dd-8bb0-0bc693be04f8")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D126")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 266.7 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7a9e6f7-31e5-461a-a17a-819d1e5ea429")
+		(property "Reference" "D124"
+			(at 279.4 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 279.4 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 267.97 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 269.24 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "5fa7c409-0554-42f2-b08b-b3645a469285")
+		)
+		(pin "1"
+			(uuid "66c30db0-c663-4ad3-ab69-a927fd67a335")
+		)
+		(pin "4"
+			(uuid "7205e69c-89c8-4b0e-8456-360f16ceb1ca")
+		)
+		(pin "2"
+			(uuid "ee627881-d96e-4036-a31c-e3c3df180de3")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 43.18 85.09 90)
 		(unit 1)
@@ -16202,6 +20991,158 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 419.1 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7fe1bf2-0221-4935-b413-4ddd51eb5d9f")
+		(property "Reference" "D104"
+			(at 431.8 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 431.8 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 420.37 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 421.64 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 419.1 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "c0fcd67f-913a-43bd-9aac-82d7e9b602e4")
+		)
+		(pin "1"
+			(uuid "a2af5a65-018a-4da4-96b2-365178cb0629")
+		)
+		(pin "4"
+			(uuid "4ddfb9f2-39c8-47e8-b5a6-2d9b7f001ce0")
+		)
+		(pin "2"
+			(uuid "e7b9a2af-bfa4-4c8b-83e8-f30604764a7e")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 266.7 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d8066adb-750f-4a0b-91ba-6e8230b446b9")
+		(property "Reference" "D123"
+			(at 279.4 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 279.4 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 267.97 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 269.24 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 266.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "1909a816-5ea1-46a4-99ea-3d20ce69aed2")
+		)
+		(pin "1"
+			(uuid "7c2df4d2-3c98-40f7-bf4a-1b10d95e7620")
+		)
+		(pin "4"
+			(uuid "b4525d7c-4739-4144-9b5b-37e0478a959e")
+		)
+		(pin "2"
+			(uuid "58589f4e-c250-4234-bdee-45c2f1fc778e")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D123")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 167.64 231.14 0)
 		(unit 1)
@@ -16264,6 +21205,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 292.1 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db0339db-d3a7-4978-b155-4ec3649af7a2")
+		(property "Reference" "D99"
+			(at 304.8 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 304.8 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 293.37 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 294.64 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 292.1 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "3346dcca-1d4d-4d05-9bca-2775168dc527")
+		)
+		(pin "1"
+			(uuid "40df6632-2840-4f70-a51e-6db147bbd0b8")
+		)
+		(pin "4"
+			(uuid "56a1f4ed-771f-4aef-b772-b40976ca2584")
+		)
+		(pin "2"
+			(uuid "abe65458-fb31-4bd8-a9ba-6aa2e82ae769")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D99")
 					(unit 1)
 				)
 			)
@@ -16339,16 +21356,16 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 293.37 102.87 0)
+		(at 368.3 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "db5827e4-448a-4b58-8b7d-964b5a43e9ba")
-		(property "Reference" "D106"
-			(at 306.07 96.5514 0)
+		(uuid "db787972-a595-4722-a0df-b007811e0ee3")
+		(property "Reference" "D114"
+			(at 381 95.2814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16356,7 +21373,7 @@
 			)
 		)
 		(property "Value" "LED_WS2812B"
-			(at 306.07 99.0914 0)
+			(at 381 97.8214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16364,7 +21381,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 294.64 110.49 0)
+			(at 369.57 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16374,7 +21391,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 295.91 112.395 0)
+			(at 370.84 111.125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16384,7 +21401,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 293.37 102.87 0)
+			(at 368.3 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16393,21 +21410,21 @@
 			)
 		)
 		(pin "3"
-			(uuid "37b000f2-033f-4360-a690-8d773dd3f2cc")
+			(uuid "fc3fe30a-0837-4ba6-9a3e-a3a5b20b66f7")
 		)
 		(pin "1"
-			(uuid "80b19fd8-71c8-4cc8-a28a-75161d5824c0")
+			(uuid "38d65c83-b9ab-443d-b3cb-430540f43efa")
 		)
 		(pin "4"
-			(uuid "0784ee4c-bc58-43b7-af0a-60ed2c078e73")
+			(uuid "3cfcc1b3-ed6b-4fc4-ac57-a389e4cbc3f0")
 		)
 		(pin "2"
-			(uuid "83ab6a1b-2ed2-4da0-86f3-f66cafa07e94")
+			(uuid "e8acfc11-c626-4cf7-ba49-528951b0fde4")
 		)
 		(instances
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D106")
+					(reference "D114")
 					(unit 1)
 				)
 			)
@@ -16637,82 +21654,6 @@
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 407.67 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "de34358a-8d7d-4cdc-b900-e72af8d04494")
-		(property "Reference" "D110"
-			(at 420.37 96.5514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_WS2812B"
-			(at 420.37 99.0914 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 408.94 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 410.21 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 407.67 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "3a2f37ea-2987-4009-be13-ea2c3d6b29b1")
-		)
-		(pin "1"
-			(uuid "d5c5db64-9617-44a3-adb0-5c7a6102ba4c")
-		)
-		(pin "4"
-			(uuid "43537888-590d-4e58-a133-7524ba2a6aaf")
-		)
-		(pin "2"
-			(uuid "b5f79702-3bdf-4db3-b183-706625e4ee46")
-		)
-		(instances
-			(project "myCompactKeyboard"
-				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D110")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 119.38 110.49 90)
 		(unit 1)
@@ -16794,82 +21735,6 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "D37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:LED_WS2812B")
-		(at 323.85 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e05103b1-e127-4302-a112-09bb66e16e04")
-		(property "Reference" "D107"
-			(at 336.55 96.5514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_WS2812B"
-			(at 336.55 99.0914 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
-			(at 325.12 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 326.39 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 323.85 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "f6fd01a0-07b8-4834-bcef-3023ac3244b2")
-		)
-		(pin "1"
-			(uuid "16eb37cc-9ddf-4cb3-9ebd-df50f5db427a")
-		)
-		(pin "4"
-			(uuid "fd4d8728-e100-4ef7-b16e-1a8fcd1e6ad9")
-		)
-		(pin "2"
-			(uuid "0decd7f2-2f6f-4649-9267-cc9f03bca20f")
-		)
-		(instances
-			(project "myCompactKeyboard"
-				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
-					(reference "D107")
 					(unit 1)
 				)
 			)
@@ -17032,7 +21897,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 455.93 125.73 270)
+		(at 461.01 209.55 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17041,7 +21906,7 @@
 		(fields_autoplaced yes)
 		(uuid "e44f16f4-8d6d-415e-9e23-93e50fddad1c")
 		(property "Reference" "#PWR02"
-			(at 452.12 125.73 0)
+			(at 457.2 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17050,7 +21915,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 459.74 125.7299 90)
+			(at 464.82 209.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17059,7 +21924,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 455.93 125.73 0)
+			(at 461.01 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17068,7 +21933,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 455.93 125.73 0)
+			(at 461.01 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17077,7 +21942,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 455.93 125.73 0)
+			(at 461.01 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17470,6 +22335,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "D70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 520.7 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e944e498-31c8-430f-b2d4-d708530b5d0e")
+		(property "Reference" "D108"
+			(at 533.4 69.8814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 533.4 72.4214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 521.97 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 523.24 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 520.7 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0a16056d-d03d-4b00-bd06-b90a4ff8cd7e")
+		)
+		(pin "1"
+			(uuid "3a111205-e403-4872-b7e2-6f44986c7698")
+		)
+		(pin "4"
+			(uuid "42f3182b-9067-4d75-8468-2aa4f2e44742")
+		)
+		(pin "2"
+			(uuid "83954878-dabf-46f2-a35e-e93da9792308")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D108")
 					(unit 1)
 				)
 			)
@@ -17922,6 +22863,158 @@
 		)
 	)
 	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 393.7 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2b70480-9cd5-4611-8356-4bd16f092090")
+		(property "Reference" "D115"
+			(at 406.4 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 406.4 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 394.97 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 396.24 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 393.7 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "45f632a1-693d-4849-84a9-d8958f0855e9")
+		)
+		(pin "1"
+			(uuid "07ade84c-b5ec-4e39-940a-be187722ef75")
+		)
+		(pin "4"
+			(uuid "19980e75-035b-4b5b-9602-b5f53a7085d2")
+		)
+		(pin "2"
+			(uuid "6d57b100-fd07-4abc-8112-144d3a854fd4")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D115")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 393.7 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4297d79-abdd-441f-a5be-23d9676a7357")
+		(property "Reference" "D134"
+			(at 406.4 146.0814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 406.4 148.6214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 394.97 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 396.24 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 393.7 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "813897a6-4c9b-4c2e-a59a-849e2c9d7274")
+		)
+		(pin "1"
+			(uuid "6cf8741e-e78f-4fe0-8f27-6b25d0595cca")
+		)
+		(pin "4"
+			(uuid "5ae06706-b7f6-489e-87b9-981044d2445c")
+		)
+		(pin "2"
+			(uuid "fdceba75-64c2-45c5-8aeb-fe584f45a391")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D134")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 116.84 129.54 0)
 		(unit 1)
@@ -18052,6 +23145,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 520.7 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f663f412-e28b-4ee5-967f-9a52d0ff57a7")
+		(property "Reference" "D143"
+			(at 533.4 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 533.4 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 521.97 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 523.24 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 520.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "8ef0ef7f-1cb5-487e-bd3f-b407969345ed")
+		)
+		(pin "1"
+			(uuid "f4677fa0-8012-47aa-961f-a4040f123d47")
+		)
+		(pin "4"
+			(uuid "4f4763b2-284b-4160-94af-81fe78b998fb")
+		)
+		(pin "2"
+			(uuid "2d6711b8-05dc-40b3-8613-d1b64166e840")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D143")
 					(unit 1)
 				)
 			)
@@ -18207,6 +23376,158 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 419.1 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f88c4a82-ecef-4aad-9062-61726baa3064")
+		(property "Reference" "D116"
+			(at 431.8 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 431.8 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 420.37 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 421.64 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 419.1 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "cfc170c3-6020-4782-8400-8790b3d1c5c0")
+		)
+		(pin "1"
+			(uuid "63bbb971-d093-4d77-99c9-2575975bec69")
+		)
+		(pin "4"
+			(uuid "611fd0cc-7b65-483e-826c-77ce6db1f891")
+		)
+		(pin "2"
+			(uuid "b78bfe89-50db-441c-bec4-ca164910bb65")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D116")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 342.9 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f926c403-5d6a-4f4a-a175-30bb5eb5db1c")
+		(property "Reference" "D113"
+			(at 355.6 95.2814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 355.6 97.8214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 344.17 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 345.44 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "a76aa78d-a66c-4751-b054-e0fc99585650")
+		)
+		(pin "1"
+			(uuid "6cbb5e88-f943-45b8-a5cc-580f8bf18a98")
+		)
+		(pin "4"
+			(uuid "ae314c61-4d37-4964-aebc-e19bb0979f88")
+		)
+		(pin "2"
+			(uuid "5d052477-d6ca-4dd0-888b-33b995b2bc83")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D113")
 					(unit 1)
 				)
 			)
@@ -18517,6 +23838,82 @@
 			(project "myCompactKeyboard"
 				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
 					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:LED_WS2812B")
+		(at 419.1 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd859e3a-bfc0-4602-b3f3-d14f3885d753")
+		(property "Reference" "D135"
+			(at 431.8 120.6814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_WS2812B"
+			(at 431.8 123.2214 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:LED_WS2812B"
+			(at 420.37 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(at 421.64 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 419.1 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "1f74f66d-c93d-4b72-99e5-00b1773c6a5c")
+		)
+		(pin "1"
+			(uuid "68d5a07a-79ef-47e8-94ad-5275486d3be8")
+		)
+		(pin "4"
+			(uuid "5e85e7b1-abef-42f0-9e55-9d8116a7f05d")
+		)
+		(pin "2"
+			(uuid "b8becbb5-60fe-4b76-a81f-493472f99f6c")
+		)
+		(instances
+			(project "myCompactKeyboard"
+				(path "/a5f71a14-17d5-4701-ba70-d64b25a756b2"
+					(reference "D135")
 					(unit 1)
 				)
 			)
