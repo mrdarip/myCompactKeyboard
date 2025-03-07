@@ -320,7 +320,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "0040c27e-0c9f-480c-aa59-5b5b63b7ab6b")
-		(at 249.33005 214.2475)
+		(at 284.32125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D72"
@@ -554,7 +554,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "01d5b2fe-f2df-48db-ada3-ec2ebf5e2835")
-		(at 238.56005 210.6975)
+		(at 170.02125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D54"
@@ -1328,7 +1328,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "02ff2538-85c9-4120-be39-58062fdba3a7")
-		(at 260.10005 224.8975)
+		(at 341.47125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D92"
@@ -1562,7 +1562,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "03169703-a304-4444-8fea-f4e0df511a5f")
-		(at 227.79005 246.1975)
+		(at 246.22125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D47"
@@ -1796,7 +1796,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "04a18734-42f0-4f12-b5b0-2c22bcd6cfdd")
-		(at 227.79005 228.4475)
+		(at 189.07125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D42"
@@ -2300,7 +2300,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "060309bb-7f6f-49ae-9d23-8fdcca7d61e6")
-		(at 227.79005 235.5475)
+		(at 208.12125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D44"
@@ -2868,7 +2868,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "06728892-b47f-4e77-9af9-f579f5c6d2a4")
-		(at 238.56005 253.2975)
+		(at 246.22125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D66"
@@ -3706,7 +3706,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "07b19673-0aab-455e-948a-4aa237b9020a")
-		(at 227.79005 221.3475)
+		(at 170.02125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D40"
@@ -4274,7 +4274,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "08ad55de-cf14-4135-a87f-defae4ed2438")
-		(at 217.02005 207.1475)
+		(at 150.97125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D19"
@@ -5048,7 +5048,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "09dcae95-4850-4a66-a370-ec116a1d065f")
-		(at 217.02005 242.6475)
+		(at 74.77125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D29"
@@ -5282,7 +5282,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "0bb0d16d-f781-4612-bd3d-2b74c8729f84")
-		(at 238.56005 217.7975)
+		(at 17.62125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D56"
@@ -7328,7 +7328,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "10072185-4297-419d-bef5-a2f826097265")
-		(at 238.56005 224.8975)
+		(at 208.12125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D58"
@@ -8834,7 +8834,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "170b8e8c-bac2-412c-91de-733f38a07ffe")
-		(at 217.02005 221.3475)
+		(at 227.17125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D23"
@@ -9672,7 +9672,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "194c163f-134e-4ad0-a8e2-211820a99e42")
-		(at 238.56005 207.1475)
+		(at 55.72125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D53"
@@ -9906,7 +9906,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "1aec9027-18f0-4385-a38e-b5bf5223173d")
-		(at 227.79005 253.2975)
+		(at 36.67125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D49"
@@ -10140,7 +10140,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "1b75a133-7a1d-476c-9e57-07f4be1b611b")
-		(at 217.02005 210.6975)
+		(at 170.02125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D20"
@@ -10374,7 +10374,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "1bcb5692-e743-40f8-aff0-8f58d475c230")
-		(at 249.33005 242.6475)
+		(at 265.27125 42.8625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D80"
@@ -10878,7 +10878,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "1fa488f9-bb9c-4a9f-911b-8fb2be6ca69a")
-		(at 217.02005 224.8975)
+		(at 246.22125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D24"
@@ -12796,7 +12796,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "27fc261b-e2e4-4aea-b4d2-679a0044f165")
-		(at 238.56005 221.3475)
+		(at 74.77125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D57"
@@ -13364,7 +13364,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "290959c6-0114-4e00-b719-426203f43c1a")
-		(at 249.33005 203.5975)
+		(at 131.92125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D69"
@@ -14026,7 +14026,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "2b255855-14b4-462e-9d4e-aeeee99719c8")
-		(at 206.25005 246.1975)
+		(at 36.67125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D13"
@@ -14260,7 +14260,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "2c7ca880-eeae-48d7-876d-42da9a7ee1fb")
-		(at 217.02005 217.7975)
+		(at 208.12125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D22"
@@ -14494,7 +14494,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "2dc4acb7-a510-4b5c-8624-61c587f88428")
-		(at 249.33005 228.4475)
+		(at 303.37125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D76"
@@ -14743,7 +14743,7 @@
 			)
 		)
 		(property "Value" "LED_WS2812B"
-			(at 0 4 0)
+			(at 63.2737 -180.41625 0)
 			(layer "F.Fab")
 			(uuid "2cbc55ac-0132-490f-a95f-5389fef8e320")
 			(effects
@@ -18558,7 +18558,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "3715c601-bff7-47da-958b-e63cf1cf7251")
-		(at 217.02005 235.5475)
+		(at 55.72125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D27"
@@ -20270,7 +20270,7 @@
 	(footprint "ScottoKeebs_MCU:Raspberry_Pi_Pico"
 		(layer "F.Cu")
 		(uuid "3c6e7aed-e91e-4d29-9b4e-8f795da51080")
-		(at 216.71505 288.7325)
+		(at 176.2125 271.4625)
 		(property "Reference" "U1"
 			(at 0 -32 0)
 			(layer "F.SilkS")
@@ -23190,7 +23190,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "3cadbc49-6e99-4de7-9d16-614d5397fead")
-		(at 227.79005 210.6975)
+		(at 150.97125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D37"
@@ -23758,7 +23758,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "3e5bea5e-149e-4078-bea4-b76a27756eae")
-		(at 249.33005 217.7975)
+		(at 150.97125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D73"
@@ -25676,7 +25676,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "4803a1db-0883-4a6d-9d10-18d711b0fde2")
-		(at 206.25005 253.2975)
+		(at 74.77125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D15"
@@ -26244,7 +26244,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "49c06636-5dfd-41ed-8677-57075ccdd7e7")
-		(at 227.79005 231.9975)
+		(at 208.12125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D43"
@@ -26812,7 +26812,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "4a5cdbcc-e2cf-4421-b8b9-e982cb62339f")
-		(at 217.02005 231.9975)
+		(at 36.67125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D26"
@@ -29192,7 +29192,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "5167ca5a-3913-4d58-9fed-6af2cfda331f")
-		(at 206.25005 242.6475)
+		(at 246.22125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
@@ -29426,7 +29426,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "5210163c-90a2-4737-a668-cca89d22d840")
-		(at 260.10005 221.3475)
+		(at 341.47125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D91"
@@ -29660,7 +29660,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "52594b75-ab96-4070-bc19-1507d190c97c")
-		(at 238.56005 260.3975)
+		(at 265.27125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D68"
@@ -30164,7 +30164,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "53f50c7b-d0a1-444e-839d-d053fab147e8")
-		(at 238.56005 228.4475)
+		(at 55.72125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D59"
@@ -31002,7 +31002,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "553a2ff4-4c81-42b7-a606-5a8dc10c81de")
-		(at 217.02005 246.1975)
+		(at 74.77125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D30"
@@ -31840,7 +31840,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "58b13d96-31d4-4533-8fb4-38a82616524e")
-		(at 238.56005 203.5975)
+		(at 17.62125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D52"
@@ -34952,7 +34952,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "63240dcb-7c76-4812-b5d4-6e7ec626280e")
-		(at 238.56005 242.6475)
+		(at 74.77125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D63"
@@ -35186,7 +35186,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "6346c1be-ad38-4a29-8bb3-aa75f7ee351a")
-		(at 249.33005 221.3475)
+		(at 303.37125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D74"
@@ -35420,7 +35420,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "63586bb1-0a08-45eb-995d-87e9ec1922b5")
-		(at 206.25005 256.8475)
+		(at 93.82125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D16"
@@ -35654,7 +35654,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "64c567cf-3594-4020-b4dd-460e82281228")
-		(at 249.33005 207.1475)
+		(at 284.32125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D70"
@@ -36890,7 +36890,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "6857e256-ec4d-40e8-aadc-3289358357e3")
-		(at 227.79005 249.7475)
+		(at 246.22125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D48"
@@ -39000,7 +39000,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "6e1b72ca-0c4d-4a4f-9afa-b2d0b1cac58d")
-		(at 217.02005 260.3975)
+		(at 112.87125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D34"
@@ -39234,7 +39234,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "6ea0d381-7096-4592-b6af-65823633a3ad")
-		(at 260.10005 231.9975)
+		(at 341.47125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D94"
@@ -39468,7 +39468,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "6eefa4a0-b955-435f-8c8b-6986dcad50ab")
-		(at 227.79005 256.8475)
+		(at 17.62125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D50"
@@ -39702,7 +39702,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "6ff4488f-cc13-4a43-a929-30ff9e6929da")
-		(at 227.79005 203.5975)
+		(at 131.92125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D35"
@@ -43162,7 +43162,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "7be187ea-f24c-4869-9abb-6b8af8215c68")
-		(at 249.33005 246.1975)
+		(at 189.07125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D81"
@@ -43396,7 +43396,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "7d5f2fb9-f3c3-4b75-9696-8c63cd223576")
-		(at 206.25005 239.0975)
+		(at 227.17125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D11"
@@ -43964,7 +43964,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "7dc9e43e-e317-4515-9388-27683fcadac1")
-		(at 227.79005 242.6475)
+		(at 227.17125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D46"
@@ -45200,7 +45200,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "80e5025b-cbb4-4e52-bb7e-1729ba483ced")
-		(at 206.25005 221.3475)
+		(at 131.92125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
@@ -47040,7 +47040,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "865bd09a-68b1-4335-b0d6-13b9677e3b93")
-		(at 260.10005 239.0975)
+		(at 341.47125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D96"
@@ -47878,7 +47878,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "8c4e65d4-44b7-490d-9929-9ddf67fe810e")
-		(at 217.02005 256.8475)
+		(at 112.87125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D33"
@@ -48112,7 +48112,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "8ca11f7e-b046-45a0-8c01-4a7718e2f7ab")
-		(at 260.10005 228.4475)
+		(at 246.22125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D93"
@@ -48346,7 +48346,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "8df43316-f7b9-4643-906d-afd33ae63dd2")
-		(at 238.56005 214.2475)
+		(at 112.87125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D55"
@@ -49518,7 +49518,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "9149ca4e-64e8-42b8-8d20-33cd164eefc8")
-		(at 238.56005 239.0975)
+		(at 227.17125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D62"
@@ -51230,7 +51230,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "938e8ff6-bb20-417a-b29b-df9fc03779e3")
-		(at 227.79005 207.1475)
+		(at 131.92125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D36"
@@ -51464,11 +51464,11 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "946ebbef-9147-4001-8d8c-0ac9b0d8c710")
-		(at 249.33005 249.7475)
+		(at 279.55875 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D82"
-			(at 3.81 -2.12 0)
+			(at 3.81 -2.12 360)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a30df610-52cd-44ab-b5ff-8bb823b04737")
@@ -51480,7 +51480,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 3.81 2.12 0)
+			(at 3.81 2.12 360)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "84c2b36f-df60-4655-8365-28ca69f1567d")
@@ -51698,7 +51698,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "949b5ef9-51d9-4c4b-b08c-33e22190486c")
-		(at 206.25005 210.6975)
+		(at 74.77125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
@@ -52934,7 +52934,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "964cf733-63c8-4f71-b9b3-f1c08b305d13")
-		(at 227.79005 224.8975)
+		(at 189.07125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D41"
@@ -53168,7 +53168,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "97e4523e-9de7-4574-8c97-21467e700c5e")
-		(at 227.79005 239.0975)
+		(at 227.17125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D45"
@@ -53402,7 +53402,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "9897d1fd-cf55-4bf9-840f-49e925ce3879")
-		(at 249.33005 253.2975)
+		(at 284.32125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D83"
@@ -54668,7 +54668,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "9bd584a3-fd16-4010-bd26-540d3bd2d893")
-		(at 227.79005 260.3975)
+		(at 17.62125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D51"
@@ -55470,7 +55470,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "9f3e959a-4782-46b2-a000-03b1f2d1edc9")
-		(at 227.79005 214.2475)
+		(at 150.97125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D38"
@@ -57182,7 +57182,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "a57dc027-5962-4df8-81b9-e79de1242a16")
-		(at 217.02005 203.5975)
+		(at 131.92125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D18"
@@ -57956,7 +57956,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "a9781cc5-1587-443f-8bed-d93db2a4605b")
-		(at 206.25005 249.7475)
+		(at 54.76875 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D14"
@@ -58460,7 +58460,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "aca97e72-9d4d-4771-b941-6cba60fb6d5e")
-		(at 206.25005 217.7975)
+		(at 112.87125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
@@ -59504,7 +59504,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "b03d3d21-89a5-471e-9267-f3d3a04b0c97")
-		(at 260.10005 214.2475)
+		(at 227.17125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D89"
@@ -59738,7 +59738,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "b112d776-276a-48f6-b6e0-5f77df976153")
-		(at 238.56005 231.9975)
+		(at 17.62125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D60"
@@ -59972,7 +59972,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "b11f6cf5-7a27-4dc0-8104-06efff0c3f85")
-		(at 206.25005 231.9975)
+		(at 189.07125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
@@ -60746,7 +60746,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "b42f6e9b-e43f-45a7-8ece-78088b2dec59")
-		(at 238.56005 235.5475)
+		(at 93.82125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D61"
@@ -61314,7 +61314,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "b71d9d94-d963-4726-ae81-ef18ec64b255")
-		(at 238.56005 256.8475)
+		(at 265.27125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D67"
@@ -61548,7 +61548,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "b76124ef-efb1-424d-8977-7886f36565a3")
-		(at 206.25005 207.1475)
+		(at 55.72125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
@@ -62386,7 +62386,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "b8ca7ec2-d5c0-4bb6-a7c9-9e8134c87f7a")
-		(at 260.10005 207.1475)
+		(at 303.37125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D87"
@@ -63160,7 +63160,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "ba4c3d74-fd37-41d1-837d-512cdb2e95fe")
-		(at 249.33005 239.0975)
+		(at 265.27125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D79"
@@ -64062,11 +64062,11 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "bbe026b7-bab0-4224-bac0-563ac6b95c60")
-		(at 260.10005 203.5975)
+		(at 300.99 -11.90625 -90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D86"
-			(at 3.81 -2.12 0)
+			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b3bb93b8-147e-4f07-814f-4babb19f5059")
@@ -64078,7 +64078,7 @@
 			)
 		)
 		(property "Value" "Diode"
-			(at 3.81 2.12 0)
+			(at 3.81 2.12 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e9e92d35-e825-4021-b056-a6c022566df5")
@@ -64090,7 +64090,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -64103,7 +64103,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -64116,7 +64116,7 @@
 			)
 		)
 		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -64129,7 +64129,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -64142,7 +64142,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -64160,6 +64160,16 @@
 		(sheetfile "myCompactKeyboard.kicad_sch")
 		(attr through_hole)
 		(fp_line
+			(start 4.06 0.4)
+			(end 3.46 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d53c1b3f-1a48-4756-b1a3-f4bf4a884887")
+		)
+		(fp_line
 			(start 3.06 0)
 			(end 3.46 0)
 			(stroke
@@ -64168,16 +64178,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "d7582147-c58e-4efb-8035-6fda97e64e8d")
-		)
-		(fp_line
-			(start 3.46 -0.55)
-			(end 3.46 0.55)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "656f0653-7281-4932-a6ea-9490eb16141b")
 		)
 		(fp_line
 			(start 3.46 0)
@@ -64190,16 +64190,6 @@
 			(uuid "c1dd4096-e308-4a4c-82b6-b2674b510176")
 		)
 		(fp_line
-			(start 4.06 -0.4)
-			(end 4.06 0.4)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "37827152-6a1f-47eb-b86c-b02891e12d80")
-		)
-		(fp_line
 			(start 4.06 0)
 			(end 4.56 0)
 			(stroke
@@ -64210,24 +64200,24 @@
 			(uuid "aedc5f99-75cf-4f86-8df6-fdb972b74973")
 		)
 		(fp_line
-			(start 4.06 0.4)
-			(end 3.46 0)
+			(start 4.06 -0.4)
+			(end 4.06 0.4)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d53c1b3f-1a48-4756-b1a3-f4bf4a884887")
+			(uuid "37827152-6a1f-47eb-b86c-b02891e12d80")
 		)
 		(fp_line
-			(start -1.05 -1.25)
-			(end -1.05 1.25)
+			(start 3.46 -0.55)
+			(end 3.46 0.55)
 			(stroke
-				(width 0.05)
+				(width 0.1)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "9ca60df5-b857-4b35-b61d-b61535a5a463")
+			(layer "F.SilkS")
+			(uuid "656f0653-7281-4932-a6ea-9490eb16141b")
 		)
 		(fp_line
 			(start -1.05 1.25)
@@ -64240,16 +64230,6 @@
 			(uuid "6561dbca-e198-4707-938a-0b2333988ba2")
 		)
 		(fp_line
-			(start 8.67 -1.25)
-			(end -1.05 -1.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "ceec114c-69ed-4da5-81ae-5a7ab66693f1")
-		)
-		(fp_line
 			(start 8.67 1.25)
 			(end 8.67 -1.25)
 			(stroke
@@ -64259,8 +64239,28 @@
 			(layer "F.CrtYd")
 			(uuid "c4bc0cb5-fb40-4b79-b1d0-14d229943059")
 		)
+		(fp_line
+			(start -1.05 -1.25)
+			(end -1.05 1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "9ca60df5-b857-4b35-b61d-b61535a5a463")
+		)
+		(fp_line
+			(start 8.67 -1.25)
+			(end -1.05 -1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "ceec114c-69ed-4da5-81ae-5a7ab66693f1")
+		)
 		(pad "1" thru_hole rect
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -64271,7 +64271,7 @@
 			(uuid "32c72a9b-7290-40ec-bd96-dab22c8f9fa8")
 		)
 		(pad "2" thru_hole oval
-			(at 7.62 0)
+			(at 7.62 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -64296,7 +64296,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "bbed7982-1d01-479a-ba56-39eab25aa79b")
-		(at 217.02005 228.4475)
+		(at 36.67125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D25"
@@ -64530,7 +64530,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "bc0cd87d-eddb-4eed-8822-c1e9e953229a")
-		(at 249.33005 210.6975)
+		(at 284.32125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D71"
@@ -64764,7 +64764,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "bd6a359c-dc40-42d5-980f-e32b1ff8934c")
-		(at 206.25005 235.5475)
+		(at 208.12125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
@@ -65872,7 +65872,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "c12365d0-f7aa-4a83-b9a3-9f978830499f")
-		(at 217.02005 214.2475)
+		(at 189.07125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D21"
@@ -66440,7 +66440,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "c403a4c8-27b1-46a7-ba22-77c0457eeec2")
-		(at 238.56005 246.1975)
+		(at 36.67125 90.4875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D64"
@@ -66944,7 +66944,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "c5a42eb3-d671-4e32-8c4f-2f505ee8cc4a")
-		(at 217.02005 239.0975)
+		(at 55.72125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D28"
@@ -67178,7 +67178,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "c5ce079c-1828-49ca-90a0-2b3200413059")
-		(at 206.25005 260.3975)
+		(at 112.87125 14.2875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D17"
@@ -67746,7 +67746,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "c79ab2d9-72e7-478d-9057-740e1554740f")
-		(at 206.25005 228.4475)
+		(at 170.02125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
@@ -69060,7 +69060,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "cf160e70-0bf7-432a-9030-cea42c7a4a4d")
-		(at 249.33005 231.9975)
+		(at 170.02125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D77"
@@ -69962,7 +69962,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "d08c572f-1b1e-41d6-b7b8-52e7d6fed325")
-		(at 217.02005 253.2975)
+		(at 93.82125 52.3875)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D32"
@@ -70466,7 +70466,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "d2ba1110-0c3f-41a8-a0b4-4faeb0083b4f")
-		(at 249.33005 235.5475)
+		(at 17.62125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D78"
@@ -72846,7 +72846,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "da0ddee2-58b7-40bc-8208-6ea3768a652a")
-		(at 249.33005 260.3975)
+		(at 208.12125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D85"
@@ -73684,7 +73684,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "dcbc8b04-1c82-4bdb-913e-c4acde12267c")
-		(at 238.56005 249.7475)
+		(at 112.87125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D65"
@@ -74188,7 +74188,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "ddc9eb94-f954-44ba-aee5-f016329daca8")
-		(at 206.25005 214.2475)
+		(at 93.82125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
@@ -76568,7 +76568,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "e8343ecd-c957-4bad-adf5-5b01bacd24a2")
-		(at 249.33005 224.8975)
+		(at 303.37125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D75"
@@ -76802,7 +76802,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "e85c9cff-2e87-4ac0-bbdf-9956ac465481")
-		(at 260.10005 235.5475)
+		(at 341.47125 71.4375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D95"
@@ -77640,7 +77640,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "ebb4ae6a-c14d-48a7-8705-1278b557f215")
-		(at 227.79005 217.7975)
+		(at 170.02125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D39"
@@ -78208,7 +78208,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "ec5b9ff0-d252-4956-8786-e05dfe96b840")
-		(at 260.10005 217.7975)
+		(at 341.47125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D90"
@@ -78442,7 +78442,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "effabb22-7453-4b68-b970-a0c80bc850d3")
-		(at 260.10005 210.6975)
+		(at 303.37125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D88"
@@ -81523,7 +81523,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "f7870a60-8bbe-48e5-beba-84a3352c3de8")
-		(at 206.25005 224.8975)
+		(at 150.97125 -11.90625)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
@@ -82027,7 +82027,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "f8c25861-cd97-4f07-bcce-bf4199910103")
-		(at 217.02005 249.7475)
+		(at 93.82125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D31"
@@ -82531,7 +82531,7 @@
 	(footprint "ScottoKeebs_Components:Diode_DO-35"
 		(layer "F.Cu")
 		(uuid "fe02a1cc-a96f-4b16-bf8f-7b3c7f452925")
-		(at 249.33005 256.8475)
+		(at 284.32125 33.3375)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D84"
