@@ -14663,7 +14663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3524N_Horizontal"
 			(at 227.33 308.61 0)
 			(effects
 				(font
