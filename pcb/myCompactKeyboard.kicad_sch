@@ -15857,7 +15857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Scotto:MX_Hotswap_2.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u_90deg"
 			(at 129.54 231.14 0)
 			(effects
 				(font
