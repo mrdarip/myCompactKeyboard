@@ -15199,7 +15199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 78.74 205.74 0)
 			(effects
 				(font
@@ -20330,7 +20330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Scotto:MX_Hotswap_3.00u"
+		(property "Footprint" "ScottoKeebs_Scotto:MX_Hotswap_2.75u"
 			(at 53.34 205.74 0)
 			(effects
 				(font
